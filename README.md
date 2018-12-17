@@ -1,14 +1,21 @@
+# Awesome Ricing :sparkles:
+<p align="center"> A curated list of awesome tools and technologies to make your Operating System look beautiful ❤️ </p>
+
+
+> The list is not necessarily \*n\*x Specific, I have included some of the windows, Mac tools as well. Also, some of them are not only closed source but paid too. So be careful while choosing your stack. 
+
+> PR's are welcome as usual
 ### ❯_ Terminals
 
-#### Cross Platform
+##### Cross Platform
 
  - [Alacritty](https://github.com/jwilm/alacritty) `cross-platform` [Rust]
  - [Hyper](https://github.com/zeit/hyper) - `cross-platform` [JavaScript]
- - [kitty](https://github.com/kovidgoyal/kitty) - `cross-platform` [C, Python]
+ - [Kitty](https://github.com/kovidgoyal/kitty) - `cross-platform` [C, Python]
  - [Terminus](https://github.com/Eugeny/terminus) - `cross-platform` [TypeScript]
  - [Upterm](https://github.com/railsware/upterm) - `cross-platform` [TypeScript]
 
- #### Linux
+ ##### Linux
  - [Aminal](https://github.com/liamg/aminal) - `MacOS/Linux` [Go]
  - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - `Linux/MacOS` [QML]
  - [Guake](https://github.com/Guake/guake) - `Linux, Gnome` [Python]
@@ -27,14 +34,14 @@
  - [Xterm](http://invisible-island.net/xterm/) - `Linux` [C]
  - [Yakuake](https://www.kde.org/applications/system/yakuake/) - `Linux` [C++]
 
- #### MacOS
+ ##### MacOS
  - [Cathod](http://www.secretgeometry.com/apps/cathode/) - `MacOS` [Closed Source]
  - [iTerm2](https://github.com/gnachman/iTerm2) - `MacOS` [Objective-C]
  - [Macterm](https://www.macterm.net/) - `MacOS` [Python]
  - [Total Terminal](https://totalterminal.binaryage.com/) - `MacOS` [Objective-C, Closed Source]
  - [Zoc terminal](https://www.emtec.com/zoc/) - `Windows/MacOS` [Closed Source]
 
- #### Windows
+ ##### Windows
  - [Babun](http://babun.github.io/) - `Windows` [Shell]
  - [ConEmu](https://github.com/Maximus5/ConEmu) - `Windows` [C++]
  - [Console](https://github.com/cbucher/console) - `Windows` [C++]
@@ -42,7 +49,7 @@
  - [Mintty](https://mintty.github.io/) - `Windows, MinGW` [C]
  - [MobaXterm](https://mobaxterm.mobatek.net/) - `Windows` [Closed Source]
  
- #### Other
+ ##### Other
  - [GateOne](https://github.com/liftoff/GateOne) - `Web` [JavaScript]
  - [JQuery.terminal](https://terminal.jcubic.pl/) - `Web` [JavaScript]
  - [Xterm](https://github.com/termux/termux-app) - `Android` [Java]
