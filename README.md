@@ -54,3 +54,13 @@
  - [JQuery.terminal](https://terminal.jcubic.pl/) - `Web` [JavaScript]
  - [Xterm](https://github.com/termux/termux-app) - `Android` [Java]
  - [Xterm.js](https://xtermjs.org/) - `Web` [TypeScript]
+
+
+----
+
+#### TODO:
+ - Add color palette
+ - Add terminal tools [IMP]
+ - Add wallpaper sources
+ - Add bars/panels
+ - Add description of each tool, instead of just link
