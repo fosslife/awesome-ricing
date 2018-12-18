@@ -3,6 +3,7 @@
 		<img src="media/logo.png" alt="Awesome Ricing">
 	</div>
   <p> A curated list of awesome tools and technologies to make your Operating System look beautiful ❤️ </p>
+  <img src="https://awesome.re/badge.svg" alt="Awesome Badge">
 <div>
 
 > The list is not necessarily \*n\*x Specific, I have included some of the windows, Mac tools as well. Also, some of them are not only closed source but paid too. So be careful while choosing your stack.
