@@ -7,59 +7,66 @@
 	<img src="https://awesome.re/badge.svg" alt="Awesome Badge">
 </div>
 
-### ❯\_ Terminals
+## Contents
+
+- [Packages](#packages)
+  - [Terminals](#terminals)
+
+## Packages
+
+### Terminals
 
 ##### Cross Platform
 
-- [Alacritty](https://github.com/jwilm/alacritty) `cross-platform` [Rust]
-- [Hyper](https://github.com/zeit/hyper) - `cross-platform` [JavaScript]
-- [Kitty](https://github.com/kovidgoyal/kitty) - `cross-platform` [C, Python]
-- [Terminus](https://github.com/Eugeny/terminus) - `cross-platform` [TypeScript]
-- [Upterm](https://github.com/railsware/upterm) - `cross-platform` [TypeScript]
+- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. (rust)
+- [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. (javascript)
+- [Kitty](https://github.com/kovidgoyal/kitty) - The fast, featureful, GPU based terminal emulator. (c, python)
+- [Terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age. (typescript)
+- [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century. (typescript)
 
 ##### Linux
 
-- [Aminal](https://github.com/liamg/aminal) - `MacOS/Linux` [Go]
-- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - `Linux/MacOS` [QML]
-- [Guake](https://github.com/Guake/guake) - `Linux, Gnome` [Python]
-- [Konsole](https://konsole.kde.org/) - `Linux, KDE` [C++]
-- [Pantheon](https://github.com/elementary/terminal) - `linux` [Vala]
-- [Roxterm](http://roxterm.sourceforge.net/) - `Linux` [C]
-- [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - `Linux` [C]
-- [st](https://st.suckless.org/) - `Linux` [C]
-- [Sakura](https://launchpad.net/sakura) - `Linux` [C]
-- [Terminology](https://github.com/billiob/terminology) - `Linux` [C]
-- [Termite](https://github.com/thestinger/termite/) - `Linux` [C++]
-- [Tilix](https://gnunn1.github.io/tilix-web/) - `Linux` - [D]
-- [Tilda](https://github.com/lanoxx/tilda) - `Linux` [C]
-- [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - `Linux` [Java]
-- [xfce4-terminal](https://github.com/xfce-mirror/xfce4-terminal) - `Linux` [C]
-- [Xterm](http://invisible-island.net/xterm/) - `Linux` [C]
-- [Yakuake](https://www.kde.org/applications/system/yakuake/) - `Linux` [C++]
+- [Aminal](https://github.com/liamg/aminal) - Golang terminal emulator from scratch. (go)
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display. (qml)
+- [Guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME. (python)
+- [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment. (c++)
+- [Pantheon](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS. (vala)
+- [Roxterm](http://roxterm.sourceforge.net/) - ROXTerm is a terminal emulator intended to provide similar features to gnome-terminal. (c)
+- [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator rxvt. (c)
+- [st](https://st.suckless.org/) - st is a simple terminal implementation for X. (c)
+- [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator. (c)
+- [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries. (c)
+- [Termite](https://github.com/thestinger/termite/) - A keyboard-centric VTE-based terminal. (c++)
+- [Tilix](https://gnunn1.github.io/tilix-web/) - A keyboard-centric VTE-based terminal. (d)
+- [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix. (c)
+- [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - Terminal with the ability to create multiple terminals in one window and faster your work progress. (java)
+- [xfce4-terminal](https://github.com/xfce-mirror/xfce4-terminal) - Xfce Terminal is a lightweight and easy to use terminal emulator with advanced features (c)
+- [Xterm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System. (c)
+- [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology. (c++)
 
 ##### MacOS
 
-- [Cathod](http://www.secretgeometry.com/apps/cathode/) - `MacOS` [Closed Source]
-- [iTerm2](https://github.com/gnachman/iTerm2) - `MacOS` [Objective-C]
-- [Macterm](https://www.macterm.net/) - `MacOS` [Python]
-- [Total Terminal](https://totalterminal.binaryage.com/) - `MacOS` [Objective-C, Closed Source]
-- [Zoc terminal](https://www.emtec.com/zoc/) - `Windows/MacOS` [Closed Source]
+- [Cathod](http://www.secretgeometry.com/apps/cathode/) - Cathode is a fully customizable terminal app with a look inspired by classic computers. (closed-source)
+- [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. (objective-c)
+- [Macterm](https://www.macterm.net/) - Powerful replacement for macOS Terminal. (python)
+- [Total Terminal](https://totalterminal.binaryage.com/) - a system-wide terminal available on a hot-key (objective-c, closed-source)
+- [Zoc terminal](https://www.emtec.com/zoc/) - SSH Client and Terminal Emulator for Windows and macOS. (closed-source)
 
 ##### Windows
 
-- [Babun](http://babun.github.io/) - `Windows` [Shell]
-- [ConEmu](https://github.com/Maximus5/ConEmu) - `Windows` [C++]
-- [Console](https://github.com/cbucher/console) - `Windows` [C++]
-- [Cmder](https://github.com/cmderdev/cmder) - `Windows` [C++]
-- [Mintty](https://mintty.github.io/) - `Windows, MinGW` [C]
-- [MobaXterm](https://mobaxterm.mobatek.net/) - `Windows` [Closed Source]
+- [Babun](http://babun.github.io/) - A Windows shell you will love. (shell)
+- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more. (c++)
+- [Console](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience. (c++)
+- [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows. (c++)
+- [Mintty](https://mintty.github.io/) - Mintty is a terminal emulator for Cygwin, MSYS or Msys2, and derived projects, and for WSL. (c)
+- [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more. (closed-source)
 
 ##### Other
 
-- [GateOne](https://github.com/liftoff/GateOne) - `Web` [JavaScript]
-- [JQuery.terminal](https://terminal.jcubic.pl/) - `Web` [JavaScript]
-- [Xterm](https://github.com/termux/termux-app) - `Android` [Java]
-- [Xterm.js](https://xtermjs.org/) - `Web` [TypeScript]
+- [GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client. (javaScript)
+- [JQuery.terminal](https://terminal.jcubic.pl/) - A plugin for creating command line interpreters. (javascript)
+- [Xterm](https://github.com/termux/termux-app) - Android terminal and Linux environment. (java)
+- [Xterm.js](https://xtermjs.org/) - Xterm.js is a terminal front-end component written in JavaScript that works in the browser. (typescript)
 
 ---
 
@@ -70,6 +77,7 @@
 - Add wallpaper sources
 - Add bars/panels
 - Add description of each tool, instead of just link
+- Add Resources(Tutorials and Articles)
 
 ## Related lists
 
