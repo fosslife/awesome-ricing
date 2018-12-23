@@ -11,6 +11,13 @@
 
 - [Packages](#packages)
   - [Terminals](#terminals)
+  - [Bars/Panels](#bars-and-panels)
+  - [Window manager](#window-managers)
+  - [CLI Tools](#cli-tools)
+  - [GUI Tools](#gui-tools)
+  - [Themes and ColorSchemes](#themes-and-colors-chemes)
+- [Resources](#resources)
+- [Communities](#comminities)
 
 ## Packages
 
@@ -68,6 +75,20 @@
 - [Xterm](https://github.com/termux/termux-app) - Android terminal and Linux environment. (java)
 - [Xterm.js](https://xtermjs.org/) - Xterm.js is a terminal front-end component written in JavaScript that works in the browser. (typescript)
 
+### CLI Tools
+
+##### Informative
+
+- [Getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal. (javascript)
+- [Gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop. (go,c)
+- [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative. (python)
+- [Htop](hisham.hm/htop/) - htop is an interactive text-mode process viewer for Unix systems. (c)
+- [Howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line. (python)
+- [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash (shell)
+- [S-tui](https://github.com/amanusk/s-tui) - Terminal based CPU stress and monitoring utility. (python)
+- [Wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal. (go)
+- [Wttr](https://github.com/chubin/wttr.in) -  The right way to check the weather on terminal. (python)
+- [Wego](https://github.com/schachmat/wego) - Another weather app for terminal with cool ascii art. (go)
 ---
 
 #### TODO:
