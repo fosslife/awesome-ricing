@@ -1,0 +1,91 @@
+terminal https://github.com/sedwards2009/extraterm
+
+themes - 
+    dracula theme https://github.com/dracula/dracula-theme
+    powelevel9k https://github.com/bhilburn/powerlevel9k
+    https://github.com/denysdovhan/spaceship-prompt
+    https://github.com/sindresorhus/pure
+    https://github.com/LazoCoder/Pokemon-Terminal
+    https://github.com/Mayccoll/Gogh
+    https://github.com/nathanbuchar/atom-one-dark-terminal
+
+show demo of your app - https://github.com/glorious-codes/glorious-demo
+
+https://github.com/notwaldorf/tiny-care-terminal
+
+colorful terminal? - https://github.com/busyloop/lolcat
+
+organize todo  - https://taskwarrior.org
+
+man pages - https://github.com/tldr-pages/tldr/
+
+benchmark - https://github.com/sharkdp/hyperfine
+
+video to ascii - https://github.com/joelibaceta/video-to-ascii
+image to ascii - 
+    https://github.com/eliukblau/pixterm
+    https://github.com/posva/catimg
+
+share terminal -
+    https://github.com/spolu/warp
+    https://github.com/tsl0922/ttyd
+
+menus - https://github.com/p-gen/smenu (cool app)
+
+colorful animations - https://github.com/bokub/chalk-animation
+
+record - 
+    https://github.com/nbedos/termtosvg
+    https://github.com/icholy/ttygif
+
+
+file managers - 
+    vifm.info
+    https://github.com/gokcehan/lf
+    https://ranger.github.io/
+    nnn
+    https://github.com/dylanaraps/fff
+
+funny: 
+    https://github.com/bartobri/no-more-secrets
+
+third party
+    slack -
+        https://github.com/erroneousboat/slack-term
+        https://github.com/haskellcamargo/sclack
+        https://github.com/evanyeung/terminal-slack
+    aws - https://github.com/donnemartin/saws
+    reddit - https://github.com/michael-lazar/rtv
+    google - https://github.com/jarun/googler
+    hacker news - https://github.com/donnemartin/haxor-news
+    google calendar -
+        https://github.com/insanum/gcalcli
+        https://github.com/pimutils/khal
+    twitter - https://github.com/orakaro/rainbowstream
+    search on web - https://github.com/zquestz/s\
+    ddg - https://github.com/jarun/ddgr
+
+
+tmux - 
+    https://github.com/tmux-python/tmuxp
+    https://github.com/tony/tmux-config
+
+loggers - 
+    https://github.com/nuxt/consola
+
+theme and colors - 
+    https://github.com/mjswensen/themer
+    pywal
+    https://github.com/trapd00r/LS_COLORS
+
+music - 
+    https://github.com/clangen/musikcube
+
+charts and graphs - 
+    https://github.com/chunqiuyiyu/ervy
+    https://github.com/sgreben/jp
+    https://github.com/guptarohit/asciigraph
+    https://github.com/gribnoysup/wunderbar
+
+conosle services = 
+    https://github.com/chubin/awesome-console-services
