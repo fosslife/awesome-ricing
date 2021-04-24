@@ -90,27 +90,42 @@
 - [Cbonsai](https://gitlab.com/jallbrit/cbonsai) - grow bonsai trees in your terminal. (C)
 - [Chalk-Animation](https://github.com/bokub/chalk-animation) - Colorful animations on terminal. (javascript)
 - [Console-Services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services.
-- [fff](https://github.com/dylanaraps/fff) - A simple file manager written in bash. (shell)
 - [Lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns. (ruby)
 - [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player. (C++)
-- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager. (C)
 - [No-More-Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect. (C)
 - [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly. (python)
-- [Ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console. (python)
 - [Themer](https://github.com/mjswensen/themer) - themer takes a set of colors and generates themes for your apps. (javascript)
-- [Vifm](https://github.com/vifm/vifm) - Terminal file manager. (C)
 
 ##### Cli system monitor
 
-- [Htop](hisham.hm/htop/) - htop is an interactive text-mode process viewer for Unix systems. (c)
-- [Gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop. (go,c)
+- [Htop](hisham.hm/htop/) - htop is an interactive text-mode process viewer for Unix systems. (C)
+- [Gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop. (go,C)
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal. (js)
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor. (rust)
 - [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative. (python)
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor (bash)
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (go)
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (rust)
-- [vtop](https://github.com/MrRio/vtop) - A  graphical activity monitor for the command line. (js)
+- [vtop](https://github.com/MrRio/vtop) - A graphical activity monitor for the command line. (js)
+
+##### CLI file managers
+
+- [Ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console. (python)
+- [Vifm](https://github.com/vifm/vifm) - Terminal file manager. (C)
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager. (C)
+- [fff](https://github.com/dylanaraps/fff) - A simple file manager written in bash. (shell)
+- [rover](https://github.com/lecram/rover) - simple file browser for the terminal. (C)
+- [lf](https://github.com/gokcehan/lf) - Terminal file manager inspired by ranger. (go)
+- [mc](https://github.com/MidnightCommander/mc) - A free cross-platform orthodox file manager. (C)
+- [noice](https://git.2f30.org/noice/) - small file browser. (C)
+- [sfm](https://github.com/afify/sfm/) - similar file manager. (C)
+- [clifm](https://github.com/pasqu4le/clifm) - Command Line Interface File Manager. (Hashkell)
+- [clifm](https://github.com/leo-arch/clifm) - a completely CLI-based, shell-like and KISS file manager , lightweight as hell. (C)
+- [cfiles](https://github.com/mananapr/cfiles) - A ncurses file manager written in C with vim like keybindings. (C)
+- [cfm](https://github.com/willeccles/cfm) - Simple and fast TUI file manager with no dependencies. (C)
+- [dfm](https://github.com/cglindkamp/dfm) -  Dynamic File Manager. (C)
+- [hund](https://github.com/miahuoe/hund) -  A minimalistic terminal file manager. (C)
+- [mfm](https://gitlab.com/dron2065/mfm) - Minimal File Manager with multiple tabs and no dependencies. (C)
 
 ##### Informative
 
