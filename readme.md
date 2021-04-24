@@ -53,6 +53,11 @@
 - [xfce4-terminal](https://github.com/xfce-mirror/xfce4-terminal) - Xfce Terminal is a lightweight and easy to use terminal emulator with advanced features (c)
 - [Xterm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System. (c)
 - [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology. (c++)
+- [Lxterminal](https://github.com/lxde/lxterminal) VTE terminal emulator written in GTK. (c)
+- [Xiate](https://www.uninformativ.de/git/xiate/file/README.html) lightweight VTE-based terminal. (c)
+- [notty](https://github.com/withoutboats/notty) virtual terminal like xterm, gnome-vte,rxvt. (rust)
+- [qterminal](https://github.com/lxqt/qterminal) lightweight Qt terminal emulator based on QTermWidget. (c++)
+- [termit](https://github.com/nonstop/termit) terminal emulator based on VTE library with Lua scripting. (c)
 
 ##### MacOS
 
@@ -69,8 +74,8 @@
 - [Console](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience. (c++)
 - [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows. (c++)
 - [Mintty](https://mintty.github.io/) - Mintty is a terminal emulator for Cygwin, MSYS or Msys2, and derived projects, and for WSL. (c)
-- [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more. 
-(closed-source)
+- [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
+  (closed-source)
 - [Windows-Terminal](https://github.com/microsoft/terminal) - Official windows terminal by microsoft. (C++)
 
 ##### Other
@@ -95,35 +100,43 @@
 - [Themer](https://github.com/mjswensen/themer) - themer takes a set of colors and generates themes for your apps. (javascript)
 - [Vifm](https://github.com/vifm/vifm) - Terminal file manager. (C)
 
+##### Cli system monitor
+
+- [Htop](hisham.hm/htop/) - htop is an interactive text-mode process viewer for Unix systems. (c)
+- [Gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop. (go,c)
+- [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal. (js)
+- [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor. (rust)
+- [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative. (python)
+- [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor (bash)
+- [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (go)
+- [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (rust)
+- [vtop](https://github.com/MrRio/vtop) - A  graphical activity monitor for the command line. (js)
+
 ##### Informative
 
 - [Getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal. (javascript)
-- [Gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop. (go,c)
-- [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative. (python)
-- [Htop](hisham.hm/htop/) - htop is an interactive text-mode process viewer for Unix systems. (c)
 - [Howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line. (python)
 - [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash (shell)
 - [S-tui](https://github.com/amanusk/s-tui) - Terminal based CPU stress and monitoring utility. (python)
 - [Wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal. (go)
-- [Wttr](https://github.com/chubin/wttr.in) -  The right way to check the weather on terminal. (python)
+- [Wttr](https://github.com/chubin/wttr.in) - The right way to check the weather on terminal. (python)
 - [Wego](https://github.com/schachmat/wego) - Another weather app for terminal with cool ascii art. (go)
----
 
+---
 
 ### Colorschemes
 
-- [Dracula](https://github.com/dracula/dracula-theme) -  A Dark theme for all the things!.
+- [Dracula](https://github.com/dracula/dracula-theme) - A Dark theme for all the things!.
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [OneDark](https://github.com/nathanbuchar/atom-one-dark-terminal) - Atom One Dark theme for Terminal
 
-
 ### Prompts
+
 - [Pokemon](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes
 - [Powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Legacy prompt for ZSH
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme revolves around customization and speed
 - [Pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [Spaceship](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts
-
 
 #### TODO:
 
