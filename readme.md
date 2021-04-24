@@ -82,6 +82,7 @@
 
 ### CLI Tools
 
+- [Cbonsai](https://gitlab.com/jallbrit/cbonsai) - grow bonsai trees in your terminal. (C)
 - [Chalk-Animation](https://github.com/bokub/chalk-animation) - Colorful animations on terminal. (javascript)
 - [Console-Services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services.
 - [fff](https://github.com/dylanaraps/fff) - A simple file manager written in bash. (shell)
