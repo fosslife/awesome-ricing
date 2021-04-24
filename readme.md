@@ -16,6 +16,7 @@
   - [CLI Tools](#cli-tools)
   - [GUI Tools](#gui-tools)
   - [Themes and ColorSchemes](#themes-and-colors-chemes)
+  - [Prompts](#prompts)
 - [Resources](#resources)
 - [Communities](#comminities)
 
@@ -81,6 +82,18 @@
 
 ### CLI Tools
 
+- [Chalk-Animation](https://github.com/bokub/chalk-animation) - Colorful animations on terminal. (javascript)
+- [Console-Services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services.
+- [fff](https://github.com/dylanaraps/fff) - A simple file manager written in bash. (shell)
+- [Lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns. (ruby)
+- [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player. (C++)
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager. (C)
+- [No-More-Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect. (C)
+- [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly. (python)
+- [Ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console. (python)
+- [Themer](https://github.com/mjswensen/themer) - themer takes a set of colors and generates themes for your apps. (javascript)
+- [Vifm](https://github.com/vifm/vifm) - Terminal file manager. (C)
+
 ##### Informative
 
 - [Getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal. (javascript)
@@ -94,6 +107,22 @@
 - [Wttr](https://github.com/chubin/wttr.in) -  The right way to check the weather on terminal. (python)
 - [Wego](https://github.com/schachmat/wego) - Another weather app for terminal with cool ascii art. (go)
 ---
+
+
+### Colorschemes
+
+- [Dracula](https://github.com/dracula/dracula-theme) -  A Dark theme for all the things!.
+- [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
+- [OneDark](https://github.com/nathanbuchar/atom-one-dark-terminal) - Atom One Dark theme for Terminal
+
+
+### Prompts
+- [Pokemon](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes
+- [Powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Legacy prompt for ZSH
+- [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme revolves around customization and speed
+- [Pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
+- [Spaceship](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts
+
 
 #### TODO:
 
