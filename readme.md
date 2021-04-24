@@ -30,6 +30,7 @@
 - [Kitty](https://github.com/kovidgoyal/kitty) - The fast, featureful, GPU based terminal emulator. (c, python)
 - [Terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age. (typescript)
 - [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century. (typescript)
+- [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer. (Rust)
 
 ##### Linux
 
