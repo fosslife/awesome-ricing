@@ -123,8 +123,8 @@
 - [clifm](https://github.com/leo-arch/clifm) - a completely CLI-based, shell-like and KISS file manager , lightweight as hell. (C)
 - [cfiles](https://github.com/mananapr/cfiles) - A ncurses file manager written in C with vim like keybindings. (C)
 - [cfm](https://github.com/willeccles/cfm) - Simple and fast TUI file manager with no dependencies. (C)
-- [dfm](https://github.com/cglindkamp/dfm) -  Dynamic File Manager. (C)
-- [hund](https://github.com/miahuoe/hund) -  A minimalistic terminal file manager. (C)
+- [dfm](https://github.com/cglindkamp/dfm) - Dynamic File Manager. (C)
+- [hund](https://github.com/miahuoe/hund) - A minimalistic terminal file manager. (C)
 - [mfm](https://gitlab.com/dron2065/mfm) - Minimal File Manager with multiple tabs and no dependencies. (C)
 
 ##### Informative
@@ -141,9 +141,15 @@
 
 ### Colorschemes
 
+- [Nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [Dracula](https://github.com/dracula/dracula-theme) - A Dark theme for all the things!.
-- [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
-- [OneDark](https://github.com/nathanbuchar/atom-one-dark-terminal) - Atom One Dark theme for Terminal
+- [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal.
+- [OneDark](https://github.com/nathanbuchar/atom-one-dark-terminal) - Atom One Dark theme for Terminal.
+- [base16 family](https://github.com/chriskempson/base16) - a collection of multiple color-schemes.
+- [gruvbox](https://github.com/morhetz/gruvbox-contrib) - Retro groove color scheme.
+- [everforest](https://github.com/sainnhe/everforest) - Comfortable & Pleasant Color Scheme.
+- [rose-pine](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
+- [tokyo-night](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark colorscheme that celebrates the lights of downtown Tokyo at night.
 
 ### Prompts
 
