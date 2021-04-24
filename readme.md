@@ -67,7 +67,9 @@
 - [Console](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience. (c++)
 - [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows. (c++)
 - [Mintty](https://mintty.github.io/) - Mintty is a terminal emulator for Cygwin, MSYS or Msys2, and derived projects, and for WSL. (c)
-- [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more. (closed-source)
+- [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more. 
+(closed-source)
+- [Windows-Terminal](https://github.com/microsoft/terminal) - Official windows terminal by microsoft. (C++)
 
 ##### Other
 
