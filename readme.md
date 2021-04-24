@@ -25,7 +25,7 @@
 
 ##### Cross Platform
 
-- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. (rust)
+- [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator. (rust)
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. (javascript)
 - [Kitty](https://github.com/kovidgoyal/kitty) - The fast, featureful, GPU based terminal emulator. (c, python)
 - [Terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age. (typescript)
