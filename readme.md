@@ -31,6 +31,7 @@
 - [Terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age. (typescript)
 - [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century. (typescript)
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer. (Rust)
+- [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. (typescript)
 
 ##### Linux
 
