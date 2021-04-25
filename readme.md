@@ -16,7 +16,7 @@
   - [Window manager](#window-managers)
   - [CLI Tools](#cli-tools)
   - [GUI Tools](#gui-tools)
-  - [Themes and ColorSchemes](#themes-and-colors-chemes)
+  - [Themes and ColorSchemes](#colorschemes)
   - [Prompts](#prompts)
 
 - [Resources](#resources)
