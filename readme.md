@@ -10,13 +10,15 @@
 ## Contents
 
 - [Packages](#packages)
-  - [Terminals](#terminals)
+
   - [Bars/Panels](#bars-and-panels)
+  - [Terminals](#terminals)
   - [Window manager](#window-managers)
   - [CLI Tools](#cli-tools)
   - [GUI Tools](#gui-tools)
   - [Themes and ColorSchemes](#themes-and-colors-chemes)
   - [Prompts](#prompts)
+
 - [Resources](#resources)
 - [Communities](#comminities)
 
@@ -70,10 +72,9 @@
 - [blockbar](https://gitlab.com/sambazley/blockbar) - Blocks based status bar for X window managers. (C)
 - [eww](https://github.com/elkowar/eww) - ElKowar's wacky widgets. (rust)
 - [gobar](https://github.com/distatus/gobar) - minimalistic X status bar. (go)
-- [xmobar](https://github.com/jaor/xmobar) -  A minimalistic status bar. (Hashkell)
+- [xmobar](https://github.com/jaor/xmobar) - A minimalistic status bar. (Hashkell)
 - [pypanel](http://pypanel.sourceforge.net) - lightweight panel/taskbar for X11 wms (python , C)
 - [perlpanel](https://savannah.nongnu.org/projects/perlpanel/) - Panel made for X11 wms like openbox , icewm. (perl)
-
 
 ### Terminals
 
