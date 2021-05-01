@@ -153,7 +153,6 @@
 -   [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (rust)
 -   [vtop](https://github.com/MrRio/vtop) - A graphical activity monitor for the command line. (js)
 
-
 ##### CLI File mangers
 
 [Courtesy - @siduck76]
@@ -175,7 +174,6 @@
 -   [rover](https://github.com/lecram/rover) - simple file browser for the terminal. (C)
 -   [sfm](https://github.com/afify/sfm/) - similar file manager. (C)
 -   [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer. (Rust)
-
 
 ##### Misc Tools
 
@@ -206,9 +204,15 @@
 
 ### Colorschemes
 
+-   [base16 family](https://github.com/chriskempson/base16) - a collection of multiple color-schemes.
 -   [Dracula](https://github.com/dracula/dracula-theme) - A Dark theme for all the things!.
+-   [everforest](https://github.com/sainnhe/everforest) - Comfortable & Pleasant Color Scheme.
 -   [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
+-   [gruvbox](https://github.com/morhetz/gruvbox-contrib) - Retro groove color scheme.
+-   [Nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 -   [OneDark](https://github.com/nathanbuchar/atom-one-dark-terminal) - Atom One Dark theme for Terminal
+-   [rose-pine](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
+-   [tokyo-night](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark colorscheme that celebrates the lights of downtown Tokyo at night.
 
 ### Prompts
 
@@ -220,10 +224,8 @@
 
 #### TODO:
 
--   Add color palette
--   Add terminal tools [IMP]
+-   More color palette
 -   Add wallpaper sources
--   Add description of each tool, instead of just link
 -   Add Resources(Tutorials and Articles)
 
 ## Related lists
