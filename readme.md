@@ -141,6 +141,20 @@
 
 ### CLI Tools
 
+##### System Monitors
+
+-   [Htop](hisham.hm/htop/) - htop is an interactive text-mode process viewer for Unix systems. (C)
+-   [Gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop. (go,C)
+-   [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal. (js)
+-   [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor. (rust)
+-   [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative. (python)
+-   [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor (bash)
+-   [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (go)
+-   [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (rust)
+-   [vtop](https://github.com/MrRio/vtop) - A graphical activity monitor for the command line. (js)
+
+##### Misc Tools
+
 -   [Cbonsai](https://gitlab.com/jallbrit/cbonsai) - grow bonsai trees in your terminal. (C)
 -   [Chalk-Animation](https://github.com/bokub/chalk-animation) - Colorful animations on terminal. (javascript)
 -   [Console-Services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services.
@@ -157,9 +171,6 @@
 ##### Informative
 
 -   [Getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal. (javascript)
--   [Gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop. (go,c)
--   [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative. (python)
--   [Htop](hisham.hm/htop/) - htop is an interactive text-mode process viewer for Unix systems. (c)
 -   [Howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line. (python)
 -   [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash (shell)
 -   [S-tui](https://github.com/amanusk/s-tui) - Terminal based CPU stress and monitoring utility. (python)
