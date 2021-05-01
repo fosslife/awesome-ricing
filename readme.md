@@ -15,7 +15,8 @@
     -   [Window manager](#window-managers)
     -   [CLI Tools](#cli-tools)
     -   [GUI Tools](#gui-tools)
-    -   [Themes and ColorSchemes](#themes-and-colors-chemes)
+    -   [Themes and ColorSchemes](#colorschemes)
+    -   [Shells](#shells)
     -   [Prompts](#prompts)
 -   [Resources](#resources)
 -   [Communities](#comminities)
@@ -214,6 +215,27 @@
 -   [rose-pine](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 -   [tokyo-night](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark colorscheme that celebrates the lights of downtown Tokyo at night.
 
+### Shells
+
+-   [Ammonite](https://github.com/com-lihaoyi/Ammonite) - Scripting with Scala. (scala)
+-   [Bash](https://www.gnu.org/software/bash/) - Well known GNU Bourne Again SHell. (C)
+-   [Elvish](https://github.com/elves/elvish) - Expressive Programming Language + Versatile Interactive Shell. (Go)
+-   [Es](https://github.com/wryun/es-shell) - a shell with higher-order functions. (C)
+-   [Fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (C++)
+-   [Ion](https://github.com/redox-os/ion) - modern system shell that features a simple, yet powerful, syntax. (Rust)
+-   [ksh93](https://github.com/att/ast) - Korn Shell. (C)
+-   [Mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell. (C)
+-   [Nushell](https://github.com/nushell/nushell) - A new type of modern shell. (Rust)
+-   [Oksh](https://github.com/ibara/oksh) - Portable OpenBSD ksh, based on the Public Domain Korn Shell. (C)
+-   [Oil](https://github.com/oilshell/oil) - A Bash compatible, with modern Unix shell. (Python)
+-   [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public Domain Korn Shell. (C)
+-   [Powershell](https://github.com/PowerShell/PowerShell) - A cross platform shell for automation and configuration. (C#)
+-   [Shell++](https://github.com/alexst07/shell-plus-plus) - (C++)
+-   [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing. (C)
+-   [Xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell. (Python)
+-   [Yash](https://yash.osdn.jp/) - yet another shell is a POSIX shell with features like Global aliases, arrays, socket etc. (C)
+-   [Zsh](http://zsh.sourceforge.net/) - Z-shell for power users. (C)
+
 ### Prompts
 
 -   [Pokemon](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes
@@ -230,7 +252,6 @@
 
 ## Related lists
 
--   [awesome-awesome-wm](https://github.com/atsepkov/awesome-awesome-wm) - A curated list of awesome tools/scripts/configs for Awesome Window Manager.
 -   [terminals are sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
 **[⬆ back to top](#contents)**
