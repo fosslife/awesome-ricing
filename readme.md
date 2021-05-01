@@ -158,6 +158,7 @@
 - [Flterm](https://github.com/yongchaofan/FLTerm) - fast light terminal emulator. (C++)
 - [Jediterm](https://github.com/JetBrains/jediterm) - Pure Java Terminal Emulator. Works with SSH and PTY. (java)
 - [Lxterminal](https://github.com/lxde/lxterminal) - VTE terminal emulator written in GTK. (c)
+- [lite](https://github.com/TerminalStudio/lite) - terminal written in dart. (dart)
 - [Lilt](https://github.com/MurphyMc/lilt) - a simple and portable terminal emulator. (c)
 - [notty](https://github.com/withoutboats/notty) virtual terminal like xterm, gnome-vte,rxvt. (rust)
 - [qterminal](https://github.com/lxqt/qterminal) lightweight Qt terminal emulator based on QTermWidget. (c++)
@@ -168,6 +169,7 @@
 - [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century. (typescript)
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer. (Rust)
 - [xtermSharp](https://github.com/migueldeicaza/XtermSharp) - XTerm emulator as a .NET library . (C#)
+- [xterm.dart](https://github.com/TerminalStudio/xterm.dart) -  xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms. (dart)
 
 ##### Linux
 
@@ -308,8 +310,6 @@
 
 [Courtesy - @siduck76]
 
-- [Ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console. (python)
-- [Vifm](https://github.com/vifm/vifm) - Terminal file manager. (C)
 - [cfiles](https://github.com/mananapr/cfiles) - A ncurses file manager written in C with vim like keybindings. (C)
 - [cfm](https://github.com/willeccles/cfm) - Simple and fast TUI file manager with no dependencies. (C)
 - [clifm](https://github.com/leo-arch/clifm) - a completely CLI-based, shell-like and KISS file manager , lightweight as hell. (C)
@@ -322,8 +322,10 @@
 - [mfm](https://gitlab.com/dron2065/mfm) - Minimal File Manager with multiple tabs and no dependencies. (C)
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager. (C)
 - [noice](https://git.2f30.org/noice/) - small file browser. (C)
+- [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console. (python)
 - [rover](https://github.com/lecram/rover) - simple file browser for the terminal. (C)
 - [sfm](https://github.com/afify/sfm/) - similar file manager. (C)
+- [vifm](https://github.com/vifm/vifm) - Terminal file manager. (C)
 - [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer. (Rust)
 
 ##### Misc Tools
@@ -369,19 +371,35 @@
 
 - [Ammonite](https://github.com/com-lihaoyi/Ammonite) - Scripting with Scala. (scala)
 - [Bash](https://www.gnu.org/software/bash/) - Well known GNU Bourne Again SHell. (C)
+- [Dash](http://gondor.apana.org.au/~herbert/dash/) - POSIX-compliant implementation of /bin/sh that aims to be as small as possible. (C)
 - [Elvish](https://github.com/elves/elvish) - Expressive Programming Language + Versatile Interactive Shell. (Go)
 - [Es](https://github.com/wryun/es-shell) - a shell with higher-order functions. (C)
 - [Fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (C++)
+- [gosh](https://github.com/cezarmathe/gosh) - primitive shell. (go)
+- [gsh](https://github.com/AdaCore/gsh) - A POSIX shell for Windows. (C, ada)
+- [Hilbish](https://github.com/Hilbis/Hilbish) - a nice lil shell for lua people made with go and lua. (go)
 - [Ion](https://github.com/redox-os/ion) - modern system shell that features a simple, yet powerful, syntax. (Rust)
+- [Jsh](https://github.com/jovanbulck/jsh) - A basic UNIX shell implementation. (C)
 - [ksh93](https://github.com/att/ast) - Korn Shell. (C)
+- [Mish](https://github.com/hoomanist/mish) - minimalistic shell. (C)
 - [Mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell. (C)
+- [Murex](https://github.com/lmorg/murex) - Bash-like $SHELL designed for greater commandline productivity and safer shell scripts. (go)
+- [Mrsh](https://github.com/emersion/mrsh) - A minimal POSIX shell. (C)
+- [Nash](https://github.com/madlambda/nash) - a shell inspired by plan9 rc. (go)
 - [Nushell](https://github.com/nushell/nushell) - A new type of modern shell. (Rust)
+- [Nsh](https://github.com/nuta/nsh) - command-line shell like fish, but POSIX compatible. (rust)
 - [Oksh](https://github.com/ibara/oksh) - Portable OpenBSD ksh, based on the Public Domain Korn Shell. (C)
+- [Oh](https://github.com/michaelmacinnis/oh) - A new Unix shell. (go)
 - [Oil](https://github.com/oilshell/oil) - A Bash compatible, with modern Unix shell. (Python)
 - [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public Domain Korn Shell. (C)
 - [Powershell](https://github.com/PowerShell/PowerShell) - A cross platform shell for automation and configuration. (C#)
+- [rc](http://doc.cat-v.org/plan_9/4th_edition/papers/rc) - plan 9 shell. (C)
+- [sesh](https://github.com/anaskhan96/sesh)- a very simple elegant shell. (go)
+- [shirt](https://github.com/jstorimer/shirt) - SHell In Ruby? Totally! (ruby)
 - [Shell++](https://github.com/alexst07/shell-plus-plus) - (C++)
 - [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing. (C)
+- [ubsh](https://github.com/ks0n/ubsh) - UnBloated (or Undefined Behavior...) shell. A small and lightweight non-POSIX shell. (C)
+- [Xiki](https://github.com/trogdoro/xiki) - a shell console with gui features. (ruby)
 - [Xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell. (Python)
 - [Yash](https://yash.osdn.jp/) - yet another shell is a POSIX shell with features like Global aliases, arrays, socket etc. (C)
 - [Zsh](http://zsh.sourceforge.net/) - Z-shell for power users. (C)
