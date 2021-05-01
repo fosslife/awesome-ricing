@@ -153,6 +153,30 @@
 -   [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (rust)
 -   [vtop](https://github.com/MrRio/vtop) - A graphical activity monitor for the command line. (js)
 
+
+##### CLI File mangers
+
+[Courtesy - @siduck76]
+
+-   [Ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console. (python)
+-   [Vifm](https://github.com/vifm/vifm) - Terminal file manager. (C)
+-   [cfiles](https://github.com/mananapr/cfiles) - A ncurses file manager written in C with vim like keybindings. (C)
+-   [cfm](https://github.com/willeccles/cfm) - Simple and fast TUI file manager with no dependencies. (C)
+-   [clifm](https://github.com/leo-arch/clifm) - a completely CLI-based, shell-like and KISS file manager , lightweight as hell. (C)
+-   [clifm](https://github.com/pasqu4le/clifm) - Command Line Interface File Manager. (Hashkell)
+-   [dfm](https://github.com/cglindkamp/dfm) - Dynamic File Manager. (C)
+-   [fff](https://github.com/dylanaraps/fff) - A simple file manager written in bash. (shell)
+-   [hund](https://github.com/miahuoe/hund) - A minimalistic terminal file manager. (C)
+-   [lf](https://github.com/gokcehan/lf) - Terminal file manager inspired by ranger. (go)
+-   [mc](https://github.com/MidnightCommander/mc) - A free cross-platform orthodox file manager. (C)
+-   [mfm](https://gitlab.com/dron2065/mfm) - Minimal File Manager with multiple tabs and no dependencies. (C)
+-   [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager. (C)
+-   [noice](https://git.2f30.org/noice/) - small file browser. (C)
+-   [rover](https://github.com/lecram/rover) - simple file browser for the terminal. (C)
+-   [sfm](https://github.com/afify/sfm/) - similar file manager. (C)
+-   [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer. (Rust)
+
+
 ##### Misc Tools
 
 -   [Cbonsai](https://gitlab.com/jallbrit/cbonsai) - grow bonsai trees in your terminal. (C)
