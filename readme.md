@@ -331,15 +331,11 @@
 - [Cbonsai](https://gitlab.com/jallbrit/cbonsai) - grow bonsai trees in your terminal. (C)
 - [Chalk-Animation](https://github.com/bokub/chalk-animation) - Colorful animations on terminal. (javascript)
 - [Console-Services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services.
-- [fff](https://github.com/dylanaraps/fff) - A simple file manager written in bash. (shell)
 - [Lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns. (ruby)
 - [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player. (C++)
-- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager. (C)
 - [No-More-Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect. (C)
 - [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly. (python)
-- [Ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console. (python)
 - [Themer](https://github.com/mjswensen/themer) - themer takes a set of colors and generates themes for your apps. (javascript)
-- [Vifm](https://github.com/vifm/vifm) - Terminal file manager. (C)
 
 ##### Informative
 
