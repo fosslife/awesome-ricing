@@ -431,18 +431,35 @@
 
 ### Prompts
 
+- [angel-PS1](https://github.com/dolmen/angel-PS1) - Your fancy shell prompt fed by your guardian angel. (perl)
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 - [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
+- [bashed-on-a-feeling](https://github.com/yedhink/bashed-on-a-feeling) -  fast and minimalistic git prompt written in bash
+- [bronze](https://github.com/reujab/bronze) - A cross-shell customizable powerline-like prompt with icons. (go)
+- [candypaint](https://github.com/anxiousmodernman/candypaint) - candy coated prompts for the ion shell. (rust)
 - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line.
 - [git-prompt](https://github.com/lvv/git-prompt) - bash prompt with GIT, SVN and HG modules
+- [Hydro](https://github.com/jorgebucaran/hydro) - Minimal, lag-free prompt with async Git status.
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+- [MiniPrompt](https://github.com/kdav5758/MiniPrompt) - Minimalist Prompt, a decluttered and lightning fast, yet, feature rich, bash prompt!
+- [Mooji](https://github.com/rodrigobdz/mooji) - Minimal, informative and fast fish prompt
+- [Mshp](https://github.com/nn1ks/mshp) - Minimal and fast prompt. (rust)
 - [Pokemon](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes
+- [polygot](https://github.com/agkozak/polyglot) - Color, ASCII-only Git prompt for zsh, bash, ksh93, mksh, pdksh, dash, and busybox ash.
 - [Powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Legacy prompt for ZSH
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme revolves around customization and speed
+- [Powerline](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell. (python)
+- [Powerline-rust](https://github.com/cirho/powerline-rust) - powerline-shell written in Rust
 - [Pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
+- [Purer](https://github.com/DFurnes/purer) - Single-line ZSH prompt, based on "Pure".
+- [Promptus](https://github.com/willeccles/promptus) - Very quick shell prompt that supports multiple shells. (C)
+- [robbyrussell](https://github.com/denysdovhan/robbyrussell-node) - Cross-shell robbyrussell theme written in JavaScript 
 - [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
+- [silver](https://github.com/reujab/silver) - A cross-shell customizable powerline-like prompt with icons. (rust)
+- [shellby](https://github.com/athul/shelby) - Shelby is a fast zap , lightweight ,minimal shell prompt. (go)
 - [Spaceship](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts
 - [Synth-shell](https://github.com/andresgongora/synth-shell) - improves your terminal experience and productivity through a combination of small bash scripts
+- [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
 - [wish](https://gitlab.com/ceda_ei/wish) - A customizable, extensible, themable bash prompt
 
 #### TODO:
