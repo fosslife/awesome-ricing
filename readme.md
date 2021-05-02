@@ -295,7 +295,7 @@
 ### CLI Tools
 
 ##### System Monitors
-
+- [Atop](https://github.com/Atoptool/atop) -  System and process monitor for Linux. (C)
 - [Htop](hisham.hm/htop/) - htop is an interactive text-mode process viewer for Unix systems. (C)
 - [Gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop. (go,C)
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal. (js)
@@ -333,6 +333,7 @@
 - [Cbonsai](https://gitlab.com/jallbrit/cbonsai) - grow bonsai trees in your terminal. (C)
 - [Chalk-Animation](https://github.com/bokub/chalk-animation) - Colorful animations on terminal. (javascript)
 - [Console-Services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services.
+- [Exa](https://github.com/ogham/exa) -  A modern replacement for 'ls' with icons and colors. (Rust)
 - [Lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns. (ruby)
 - [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player. (C++)
 - [No-More-Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect. (C)
@@ -418,6 +419,7 @@
 - [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
 - [Spaceship](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts
 - [Synth-shell](https://github.com/andresgongora/synth-shell) - improves your terminal experience and productivity through a combination of small bash scripts
+- [wish](https://gitlab.com/ceda_ei/wish) - A customizable, extensible, themable bash prompt
 
 #### TODO:
 
