@@ -295,16 +295,34 @@
 ### CLI Tools
 
 ##### System Monitors
+
 - [Atop](https://github.com/Atoptool/atop) -  System and process monitor for Linux. (C)
-- [Htop](hisham.hm/htop/) - htop is an interactive text-mode process viewer for Unix systems. (C)
+- [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor (bash)
+- [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (rust)
+- [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative. (python)
 - [Gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop. (go,C)
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal. (js)
-- [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor. (rust)
-- [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative. (python)
-- [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor (bash)
+- [Htop](hisham.hm/htop/) - htop is an interactive text-mode process viewer for Unix systems. (C)
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (go)
-- [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (rust)
 - [vtop](https://github.com/MrRio/vtop) - A graphical activity monitor for the command line. (js)
+- [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor. (rust)
+
+##### audio visualizers
+
+(cli)
+- [cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa. (C)
+- [catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows. (go)
+- [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer. (C++)
+- [ReVidia-Audio-Visualizer](https://github.com/GhostNaN/ReVidia-Audio-Visualizer) - A highly customizable real time audio visualizer on Linux/Windows. (python)
+- [xava](https://github.com/nikp123/xava) - X11 Audio Visualizer for ALSA. (C)
+
+(non-cli)
+- [audio-visualizer](https://github.com/JonathanZWhite/audio-visualizer) - Processing program for visualizing music and sounds. (java)
+- [audio-visualizer-screenlet](https://github.com/ninlith/audio-visualizer-screenlet) - Cross-platform audio visualization desktop widget. (python)
+- [desktop-visualizer](https://github.com/TheBITLINK/desktop-visualizer) - Linux Desktop Music visualizer made with SFML. (C++)
+- [electron-music-visualizer](https://github.com/mak-thevar/electron-music-visualizer) - A desktop music visualizer using electronjs. (JavaScript)
+- [glava](https://github.com/jarcode-foss/glava) - GLava - OpenGL audio spectrum visualizer. (C)
+- [visualizer](https://github.com/GuidoFe/visualizer) - Transforms cava music visualizer in a cool desktop decoration. (shell)
 
 ##### CLI File mangers
 
