@@ -328,6 +328,12 @@
 - [vifm](https://github.com/vifm/vifm) - Terminal file manager. (C)
 - [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer. (Rust)
 
+##### Weather Tools
+- [ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
+- [Sky](https://gitlab.com/ceda_ei/sky) - A simple weather monitor server for your terminal based on curl
+- [wego](https://github.com/schachmat/wego) -  weather app for the terminal written in Go.
+- [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather 
+
 ##### Misc Tools
 
 - [Cbonsai](https://gitlab.com/jallbrit/cbonsai) - grow bonsai trees in your terminal. (C)
