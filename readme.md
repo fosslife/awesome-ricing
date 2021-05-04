@@ -18,8 +18,11 @@
   - [Themes and ColorSchemes](#colorschemes)
   - [Shells](#shells)
   - [Prompts](#prompts)
-- [Resources](#resources)
-- [Communities](#comminities)
+- [Resources](#resources) 
+  - [Wallpapers](#wallpapers) 
+  - [Other](#other)
+- [Communities](#communities) 
+  - [Reddit](#reddit)
 
 ## Packages
 
@@ -407,17 +410,26 @@
 - [yafetch](https://github.com/yrwq/yafetch) - yet another shell. (C)
 - [yayfetch](https://github.com/golota60/yayfetch) - Multi-platform screenfetch. (typescript)
 
+#### RSS/Atom Feed Readers
+- [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader forked from Newsbeuter. (C++/Rust)
+- [Sfeed](https://codemadness.org/sfeed-simple-feed-parser.html) - A very minimal and lightweight RSS/Atom Reader. (C)
+- [snownews](https://github.com/msharov/snownews) - A text-mode RSS/Atom aggregator. (C)
+- [ureader](https://github.com/pxqr/ureader) - A minimalistic cli RRS reader with unicode and color support. (Haskell)
+
 ##### Misc Tools
 
 - [Cbonsai](https://gitlab.com/jallbrit/cbonsai) - grow bonsai trees in your terminal. (C)
 - [Chalk-Animation](https://github.com/bokub/chalk-animation) - Colorful animations on terminal. (javascript)
 - [Console-Services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services.
 - [Exa](https://github.com/ogham/exa) -  A modern replacement for 'ls' with icons and colors. (Rust)
+- [genact](https://github.com/svenstaro/genact) - A nonsense activity generator. (Rust)
 - [Lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns. (ruby)
+- [mpv](https://github.com/mpv-player/mpv) - Command Line Miedia Player
 - [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player. (C++)
 - [No-More-Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect. (C)
 - [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly. (python)
 - [Themer](https://github.com/mjswensen/themer) - themer takes a set of colors and generates themes for your apps. (javascript)
+- [tdrop](https://github.com/noctuid/tdrop) - A glorified WM-independent dropdown creator. (Shell)
 
 ##### Informative
 
@@ -444,8 +456,10 @@
 - [gruvbox](https://github.com/morhetz/gruvbox-contrib) - Retro groove color scheme.
 - [Nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [OneDark](https://github.com/nathanbuchar/atom-one-dark-terminal) - Atom One Dark theme for Terminal
+- [rainglow](https://github.com/rainglow) - A collection of over 320 different color themes for various terminals and editors.
 - [rose-pine](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 - [tokyo-night](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark colorscheme that celebrates the lights of downtown Tokyo at night.
+
 
 ### Shells
 
@@ -517,11 +531,36 @@
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
 - [wish](https://gitlab.com/ceda_ei/wish) - A customizable, extensible, themable bash prompt
 
+## Resources
+
+### Wallpapers
+
+- [Alpha Coders](https://www.alphacoders.com/) - A site with wallapapers, art, gifs, and a lot of other interesting media.
+- [UnSplash](https://unsplash.com/) - Website with thousands for freely-usable images.
+- [SimpleDesktops](http://simpledesktops.com/) - Wallpaper site specfically for Miniamal and Simple Wallpapers.
+- [wallhaven](https://wallhaven.cc) - Massive walpaper website with an active comminuty.
+- [Wallpaper Cave](https://wallpapercave.com) - Wallpaper site with a larger focus on user-submitted categories for wallpapers.
+
+### Other
+
+- [Guide to Switching to Ubuntu on Reddit](https://www.reddit.com/r/linux4noobs/comments/ejsz3v/still_on_windows_7_dont_want_windows_10_consider/) - A Beginner-frendly guide on how to switch to Ubuntu as a Daily Driver.
+- [ArchWiki](https://wiki.archlinux.org/) - The Bible of linux configuration/resources.
+
+## Communities
+
+### Reddit
+
+- [r/findmeadistro](https://www.reddit.com/r/FindMeADistro/) - The Distro-hunting Subreddit.
+- [r/linux4noobs](https://www.reddit.com/r/linux4noobs) - A community for those new to the Linux Operating System. The Wiki contains a wealth of information for new users to get started in Linux.
+- [r/unixporn](https://www.reddit.com/r/unixporn/) - A coumminty all about Ricing up Linux.
+- [r/terminal_porn](https://www.reddit.com/r/terminal_porn/) - The unixporn of terminals.
+
 #### TODO:
 
 - More color palette
 - Add wallpaper sources
 - Add Resources(Tutorials and Articles)
+- Add More Resources
 
 ## Related lists
 
