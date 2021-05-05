@@ -18,11 +18,13 @@
   - [Themes and ColorSchemes](#colorschemes)
   - [Shells](#shells)
   - [Prompts](#prompts)
+  - [colorscheme-generators](#colorscheme-generators)
 - [Resources](#resources) 
   - [Wallpapers](#wallpapers) 
   - [Other](#other)
 - [Communities](#communities) 
   - [Reddit](#reddit)
+
 
 ## Packages
 
@@ -307,6 +309,7 @@
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal. (js)
 - [Htop](hisham.hm/htop/) - htop is an interactive text-mode process viewer for Unix systems. (C)
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (go)
+- [S-tui](https://github.com/amanusk/s-tui) - Terminal based CPU stress and monitoring utility. (python)
 - [vtop](https://github.com/MrRio/vtop) - A graphical activity monitor for the command line. (js)
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor. (rust)
 
@@ -400,6 +403,7 @@
 - [rktfetch](https://github.com/mythical-linux/rktfetch) - System fetch program. (racket)
 - [rsfetch](https://github.com/rsfetch/rsfetch) - Fast (~1ms execution time) and somewhat(?) minimal fetch program. (rust)
 - [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch. (rust)
+- [rfetch](https://github.com/Mangeshrex/rfetch) - minimal and pretty fetch. (shell)
 - [sfetch](https://github.com/HenryDawson123/sfetch) - A simple fetch program. (C++)
 - [sheen](https://github.com/digitalsurvival/sheen) - Cross-platform desktop screenshot boasting tool (neo/screenFetch reimplemented). (python)
 - [tfetch](https://github.com/Endlassy/tfetch) - Tree view like fetch. (python)
@@ -435,12 +439,9 @@
 
 - [Getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal. (javascript)
 - [Howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line. (python)
-- [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash (shell)
-- [S-tui](https://github.com/amanusk/s-tui) - Terminal based CPU stress and monitoring utility. (python)
 - [Wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal. (go)
 - [Wttr](https://github.com/chubin/wttr.in) - The right way to check the weather on terminal. (python)
 - [Wego](https://github.com/schachmat/wego) - Another weather app for terminal with cool ascii art. (go)
-
 ---
 
 ### Colorschemes
@@ -530,6 +531,11 @@
 - [Synth-shell](https://github.com/andresgongora/synth-shell) - improves your terminal experience and productivity through a combination of small bash scripts
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
 - [wish](https://gitlab.com/ceda_ei/wish) - A customizable, extensible, themable bash prompt
+
+### colorscheme-generators
+
+- [oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a Materia and Oomox themes (GTK2, GTK3 and others). (python)
+- [wpgtk](https://github.com/deviantfero/wpgtk) - a colorscheme, wallpaper and template manager for *nix. (python)
 
 ## Resources
 
