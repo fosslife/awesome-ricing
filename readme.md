@@ -428,7 +428,7 @@
 - [Exa](https://github.com/ogham/exa) -  A modern replacement for 'ls' with icons and colors. (Rust)
 - [genact](https://github.com/svenstaro/genact) - A nonsense activity generator. (Rust)
 - [Lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns. (ruby)
-- [mpv](https://github.com/mpv-player/mpv) - Command Line Miedia Player
+- [mpv](https://github.com/mpv-player/mpv) - Command Line Media Player
 - [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player. (C++)
 - [No-More-Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect. (C)
 - [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly. (python)
