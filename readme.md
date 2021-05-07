@@ -377,6 +377,7 @@
 - [ghfetch](https://github.com/bwac2517/ghfetch) - neofetch but for github. (typescript)
 - [Hilbifetch](https://github.com/Hilbis/Hilbifetch) - Simple and small fetch. (lua)
 - [Hyperfetch](https://github.com/ralseiii/hyperfetch) - a multi-threaded system information tool written in posix sh. (shell)
+- [Kat-OH](https://github.com/70xH/Kat-OH) - A huge fetch. (go)
 - [lfetch](https://github.com/TheUpBeat/lfetch) - Yet another fetch program. (C)
 - [fetch](https://github.com/aeosynth/fetch) - polyglot fetch. (javaScript,rust,go)
 - [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Simple Dilbert themed system info-fetching tool. (perl)
