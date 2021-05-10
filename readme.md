@@ -118,9 +118,9 @@
 - [monsterwm](https://github.com/c00kiemon5ter/monsterwm) - tiny but monstrous tiling window manager. (C)
 - [nwm](https://github.com/mixu/nwm) - A dynamic window manager for X11 written with Node.js. (Javascript)
 - [sawfish](https://github.com/SawfishWM/sawfish) - Sawfish Window-Manager (Common Lisp)
-- [spectrwm](A small dynamic tiling window manager for X11. ) - A small dynamic tiling window manager for X11. (C)
+- [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11. (C)
 - [wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager. (go)
-- [xmonad](https://github.com/xmonad/xmonad) - a small but functional ICCCM-compliant tiling window manager . (Hashkell)
+- [xmonad](https://github.com/xmonad/xmonad) - a small but functional ICCCM-compliant tiling window manager . (Haskell)
 
 ##### MacOS
 
@@ -175,7 +175,7 @@
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer. (Rust)
 - [xtermSharp](https://github.com/migueldeicaza/XtermSharp) - XTerm emulator as a .NET library . (C#)
 - [xterm.dart](https://github.com/TerminalStudio/xterm.dart) -  xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms. (dart)
-
+ 
 ##### Linux
 
 - [Aminal](https://github.com/liamg/aminal) - Golang terminal emulator from scratch. (go)
