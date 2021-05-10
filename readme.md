@@ -175,8 +175,7 @@
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer. (Rust)
 - [xtermSharp](https://github.com/migueldeicaza/XtermSharp) - XTerm emulator as a .NET library . (C#)
 - [xterm.dart](https://github.com/TerminalStudio/xterm.dart) -  xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms. (dart)
-- [Foot](https://codeberg.org/dnkl/foot) - A fast, lightweight and minimalistic Wayland terminal emulator
-
+ 
 ##### Linux
 
 - [Aminal](https://github.com/liamg/aminal) - Golang terminal emulator from scratch. (go)
