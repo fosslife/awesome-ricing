@@ -120,7 +120,7 @@
 - [sawfish](https://github.com/SawfishWM/sawfish) - Sawfish Window-Manager (Common Lisp)
 - [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11. (C)
 - [wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager. (go)
-- [xmonad](https://github.com/xmonad/xmonad) - a small but functional ICCCM-compliant tiling window manager . (Hashkell)
+- [xmonad](https://github.com/xmonad/xmonad) - a small but functional ICCCM-compliant tiling window manager . (Haskell)
 
 ##### MacOS
 
