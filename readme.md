@@ -19,12 +19,11 @@
   - [Shells](#shells)
   - [Prompts](#prompts)
   - [colorscheme-generators](#colorscheme-generators)
-- [Resources](#resources) 
-  - [Wallpapers](#wallpapers) 
+- [Resources](#resources)
+  - [Wallpapers](#wallpapers)
   - [Other](#other)
-- [Communities](#communities) 
+- [Communities](#communities)
   - [Reddit](#reddit)
-
 
 ## Packages
 
@@ -174,8 +173,8 @@
 - [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century. (typescript)
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer. (Rust)
 - [xtermSharp](https://github.com/migueldeicaza/XtermSharp) - XTerm emulator as a .NET library . (C#)
-- [xterm.dart](https://github.com/TerminalStudio/xterm.dart) -  xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms. (dart)
- 
+- [xterm.dart](https://github.com/TerminalStudio/xterm.dart) - xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms. (dart)
+
 ##### Linux
 
 - [Aminal](https://github.com/liamg/aminal) - Golang terminal emulator from scratch. (go)
@@ -301,7 +300,7 @@
 
 ##### System Monitors
 
-- [Atop](https://github.com/Atoptool/atop) -  System and process monitor for Linux. (C)
+- [Atop](https://github.com/Atoptool/atop) - System and process monitor for Linux. (C)
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor (bash)
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (rust)
 - [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative. (python)
@@ -316,6 +315,7 @@
 ##### audio visualizers
 
 (cli)
+
 - [cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa. (C)
 - [catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows. (go)
 - [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer. (C++)
@@ -323,6 +323,7 @@
 - [xava](https://github.com/nikp123/xava) - X11 Audio Visualizer for ALSA. (C)
 
 (non-cli)
+
 - [audio-visualizer](https://github.com/JonathanZWhite/audio-visualizer) - Processing program for visualizing music and sounds. (java)
 - [audio-visualizer-screenlet](https://github.com/ninlith/audio-visualizer-screenlet) - Cross-platform audio visualization desktop widget. (python)
 - [desktop-visualizer](https://github.com/TheBITLINK/desktop-visualizer) - Linux Desktop Music visualizer made with SFML. (C++)
@@ -353,10 +354,11 @@
 - [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer. (Rust)
 
 ##### Weather Tools
+
 - [ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
 - [Sky](https://gitlab.com/ceda_ei/sky) - A simple weather monitor server for your terminal based on curl
-- [wego](https://github.com/schachmat/wego) -  weather app for the terminal written in Go.
-- [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather 
+- [wego](https://github.com/schachmat/wego) - weather app for the terminal written in Go.
+- [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather
 
 #### Fetches
 
@@ -371,7 +373,7 @@
 - [cinfo](https://github.com/mrdotx/cinfo) - a fast and minimal system information tool for linux-based operating systems. (C)
 - [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux. (shell)
 - [cppfetch](https://github.com/Phate6660/cppfetch) - A neofetch-esque program written in CPP. (C++)
-- [cpufetch](https://github.com/Dr-Noob/cpufetch) -  Simple yet fancy CPU architecture fetching tool. (C)
+- [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool. (C)
 - [crfetch](https://github.com/Phate6660/crfetch) - A WIP neofetch-like program. (cyrstal)
 - [gentoofetch](https://github.com/DmitryHetman/gentoofetch.sh) - System information script for Gentoo GNU/Linux. (shell)
 - [ghfetch](https://github.com/bwac2517/ghfetch) - neofetch but for github. (typescript)
@@ -392,7 +394,7 @@
 - [lunafetch](https://github.com/SugarBlank/LunaFetch) - Returns system information fast. (C++)
 - [mafetch](https://github.com/fikriomar16/mafetch) - System info for Unix-like operating systems. (shell)
 - [mfetch](https://github.com/depsterr/mfetch) - minmal fetch. (shell)
-- [neofetch](https://github.com/dylanaraps/neofetch) -  A command-line system information tool written in bash 3.2+ . (shell)
+- [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+ . (shell)
 - [nerdfetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX nix fetch script using Nerdfonts. (shell)
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal. (rust)
 - [paleofetch](https://github.com/ss7m/paleofetch) - neofetch, but written in C.
@@ -416,6 +418,7 @@
 - [yayfetch](https://github.com/golota60/yayfetch) - Multi-platform screenfetch. (typescript)
 
 #### RSS/Atom Feed Readers
+
 - [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader forked from Newsbeuter. (C++/Rust)
 - [Sfeed](https://codemadness.org/sfeed-simple-feed-parser.html) - A very minimal and lightweight RSS/Atom Reader. (C)
 - [snownews](https://github.com/msharov/snownews) - A text-mode RSS/Atom aggregator. (C)
@@ -426,7 +429,7 @@
 - [Cbonsai](https://gitlab.com/jallbrit/cbonsai) - grow bonsai trees in your terminal. (C)
 - [Chalk-Animation](https://github.com/bokub/chalk-animation) - Colorful animations on terminal. (javascript)
 - [Console-Services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services.
-- [Exa](https://github.com/ogham/exa) -  A modern replacement for 'ls' with icons and colors. (Rust)
+- [Exa](https://github.com/ogham/exa) - A modern replacement for 'ls' with icons and colors. (Rust)
 - [genact](https://github.com/svenstaro/genact) - A nonsense activity generator. (Rust)
 - [Lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns. (ruby)
 - [mpv](https://github.com/mpv-player/mpv) - Command Line Media Player
@@ -443,6 +446,7 @@
 - [Wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal. (go)
 - [Wttr](https://github.com/chubin/wttr.in) - The right way to check the weather on terminal. (python)
 - [Wego](https://github.com/schachmat/wego) - Another weather app for terminal with cool ascii art. (go)
+
 ---
 
 ### Colorschemes
@@ -461,7 +465,6 @@
 - [rainglow](https://github.com/rainglow) - A collection of over 320 different color themes for various terminals and editors.
 - [rose-pine](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 - [tokyo-night](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark colorscheme that celebrates the lights of downtown Tokyo at night.
-
 
 ### Shells
 
@@ -505,7 +508,7 @@
 - [angel-PS1](https://github.com/dolmen/angel-PS1) - Your fancy shell prompt fed by your guardian angel. (perl)
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 - [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
-- [bashed-on-a-feeling](https://github.com/yedhink/bashed-on-a-feeling) -  fast and minimalistic git prompt written in bash
+- [bashed-on-a-feeling](https://github.com/yedhink/bashed-on-a-feeling) - fast and minimalistic git prompt written in bash
 - [bronze](https://github.com/reujab/bronze) - A cross-shell customizable powerline-like prompt with icons. (go)
 - [candypaint](https://github.com/anxiousmodernman/candypaint) - candy coated prompts for the ion shell. (rust)
 - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line.
@@ -524,7 +527,7 @@
 - [Pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [Purer](https://github.com/DFurnes/purer) - Single-line ZSH prompt, based on "Pure".
 - [Promptus](https://github.com/willeccles/promptus) - Very quick shell prompt that supports multiple shells. (C)
-- [robbyrussell](https://github.com/denysdovhan/robbyrussell-node) - Cross-shell robbyrussell theme written in JavaScript 
+- [robbyrussell](https://github.com/denysdovhan/robbyrussell-node) - Cross-shell robbyrussell theme written in JavaScript
 - [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
 - [silver](https://github.com/reujab/silver) - A cross-shell customizable powerline-like prompt with icons. (rust)
 - [shellby](https://github.com/athul/shelby) - Shelby is a fast zap , lightweight ,minimal shell prompt. (go)
@@ -536,11 +539,36 @@
 ### colorscheme-generators
 
 - [oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a Materia and Oomox themes (GTK2, GTK3 and others). (python)
-- [wpgtk](https://github.com/deviantfero/wpgtk) - a colorscheme, wallpaper and template manager for *nix. (python)
+- [wpgtk](https://github.com/deviantfero/wpgtk) - a colorscheme, wallpaper and template manager for \*nix. (python)
 
-## Resources
+#### Wallpapers
 
-### Wallpapers
+### Background setting utilities and generators
+
+- [auto_background_changer](https://github.com/AlvinJian/auto_background_changer) - A simple wallpaper changer supporting various desktop environments and window managers for Linux. (python)
+- [azote](https://github.com/nwg-piotr/azote) - Wallpaper and colour manager for Sway, i3 and some other WMs. (python)
+- [BashDynamicPaper](https://github.com/wtheisen/BashDynamicPaper) - Dynamic wallpaper setter.(shell)
+- [battery-wallpaper](https://github.com/adi1090x/battery-wallpaper) - Simple bash script to set wallpaper according to battery percentage with charging animations. (shell)
+- [bing-desktop-wallpaper-changer](https://github.com/UtkarshGpta/bing-desktop-wallpaper-changer) - Automatically changes desktop wallpaper to Bing Photo of the Day for Linux with Gnome. (shell) !!
+- [canvas](https://github.com/adi1090x/canvas) -  A Gradient / Blured Wallpaper Generator And Setter. (shell)
+- [chwall](https://git.umaneti.net/chwall/about/) - tiny automatic wallpaper changer. (python)
+- [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler .(shell)
+- [fbsetbg](https://github.com/hboetes/fbsetbg) - Set your wallpaper with the best available application. (C)
+- [komorebi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux. (vala)
+- [lean](https://github.com/vineetred/flowy) - A lean, privacy-preserving dynamic wallpaper changer. (rust)
+- [izulu](https://github.com/onli/izulu) - weather-aware desktop background images. (shell)
+- [feh](https://github.com/derf/feh) - a fast and light image viewer / setter. (C)
+- [Nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows. (c++)
+- [Nathans-wallpaper](https://github.com/step-/nathans-wallpaper) - Desktop wallpaper setter. (shell)
+- [quickwall](https://github.com/deepjyoti30/QuickWall) - Set latest wallpapers from Unsplash from the commandline. (python)
+- [setroot](https://github.com/ttzhou/setroot) - simple X background setter inspired by imlibsetroot and feh. (C)
+- [Unsplash-Random-Wallpaper-Setter](https://github.com/tymscar/Unsplash-Random-Wallpaper-Setter) - simple script that changes your wallpaper to a random image from unsplash.it (shell)
+- [xwallpaper](https://github.com/stoeckmann/xwallpaper) - wallpaper setting utility for X . (C)
+- [xwinwrapl](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background. (C)
+- [wallpaper-generator](https://github.com/timozattol/wallpaper-generator) - A simple wallpaper generator. (python)
+- [wallsetter](https://github.com/Creator54/wallsetter) - A live wallpaper setter for linux. (shell)
+
+### resources (websites)
 
 - [Alpha Coders](https://www.alphacoders.com/) - A site with wallapapers, art, gifs, and a lot of other interesting media.
 - [UnSplash](https://unsplash.com/) - Website with thousands for freely-usable images.
