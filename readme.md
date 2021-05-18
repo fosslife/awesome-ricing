@@ -647,7 +647,4 @@ Your contributions are always welcome! Please take a look at our [contribution g
 
 To the extent possible under law, [Sparkenstein](https://github.com/Sparkenstein) has waived all copyright and related or neighboring rights to this work.
 
-<center>
-<link rel="stylesheet" type="text/css" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
-Made with <i class="icon ion-heart"style="color: #e25555;"></i> by the community</center> 
-
+<center> Made with ❤️  by the community </center>
