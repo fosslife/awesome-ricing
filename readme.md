@@ -7,31 +7,55 @@
 	<img src="https://awesome.re/badge.svg" alt="Awesome Badge">
 </div>
 
-## Contents
-
+## Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Packages](#packages)
+  - [window-managers](#window-managers)
+    - [Linux](#linux)
+      - [Tiling wms](#tiling-wms)
+      - [Stacking and floating wms](#stacking-and-floating-wms)
+      - [Dynamic tiling wms](#dynamic-tiling-wms)
+    - [MacOS](#macos)
+    - [Windows](#windows)
   - [Terminals](#terminals)
-  - [Bars/Panels](#bars-and-panels)
-  - [Window manager](#window-managers)
+    - [Cross Platform](#cross-platform)
+    - [Linux](#linux-1)
+    - [MacOS](#macos-1)
+    - [Windows](#windows-1)
+    - [Other](#other)
+  - [Bars and Panels](#bars-and-panels)
   - [CLI Tools](#cli-tools)
-  - [GUI Tools](#gui-tools)
-  - [Themes and ColorSchemes](#colorschemes)
+    - [System Monitors](#system-monitors)
+    - [audio visualizers](#audio-visualizers)
+      - [cli](#cli)
+      - [non-cli](#non-cli)
+    - [File mangers](#file-mangers)
+    - [Weather Tools](#weather-tools)
+    - [Fetches](#fetches)
+    - [RSS/Atom Feed Readers](#rssatom-feed-readers)
+    - [Misc Tools](#misc-tools)
+    - [Informative](#informative)
+  - [Colorschemes](#colorschemes)
+    - [colorscheme-generators](#colorscheme-generators)
   - [Shells](#shells)
   - [Prompts](#prompts)
-  - [colorscheme-generators](#colorscheme-generators)
-- [Resources](#resources)
-  - [Wallpapers](#wallpapers)
-  - [Other](#other)
+  - [Background setting utilities and generators](#background-setting-utilities-and-generators)
+  - [resources (websites)](#resources-websites)
+  - [Other](#other-1)
 - [Communities](#communities)
   - [Reddit](#reddit)
+- [TODO:](#todo)
+- [Related lists](#related-lists)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Packages
 
 ### window-managers
 
-##### Linux
+#### Linux
 
-#### Tiling wms
+##### Tiling wms
 
 - [Bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning. (C)
 - [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell .(JavaScript)
@@ -61,7 +85,7 @@
 - [wmderland](https://github.com/aesophor/wmderland) - X11 tiling window manager using space partitioning trees .(C++)
 - [xoat](https://github.com/seanpringle/xoat) - An obstinate, asymmetric, tiling, window manager for X. (C)
 
-#### Stacking and floating wms
+##### Stacking and floating wms
 
 - [2bwm](https://github.com/venam/2bwm) - A fast floating WM written over the XCB library and derived from mcwm. (C)
 - [9wm](https://github.com/9wm/9wm) - X11 Window Manager inspired by Plan 9's rio. (C)
@@ -106,7 +130,7 @@
 - [wm2](https://www.all-day-breakfast.com/wm2/) - a window manager for X. (C)
 - [xfwm3](https://gitlab.xfce.org/xfce/xfwm4) - xfce's window manager. (C)
 
-#### Dynamic tiling wms
+##### Dynamic tiling wms
 
 - [Alopex](https://github.com/TrilbyWhite/alopex) - tabbed tiling window manager .(C)
 - [awesome](https://github.com/awesomeWM/awesome) - awesome window manager .(lua)
@@ -121,7 +145,7 @@
 - [wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager. (go)
 - [xmonad](https://github.com/xmonad/xmonad) - a small but functional ICCCM-compliant tiling window manager . (Haskell)
 
-##### MacOS
+#### MacOS
 
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (swift)
 - [AppGrid](https://github.com/mjolnirapp/AppGrid) - macOS window manager with Vim–like hotkeys. (objective-c)
@@ -136,7 +160,7 @@
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning .(C)
 - [zwm](https://github.com/z3t0/zwm) - macOS window manager running on Hammerspoon. (lua)
 
-##### Windows
+#### Windows
 
 - [Hastwm](https://github.com/ZaneA/HashTWM) - An automatic Tiling Window Manager for the Windows OS. (C)
 - [MyWinTiles](https://github.com/CSaratakij/MyWinTiles) - Tiling window manager for Windows 10, Built on top of explorer shell. (C++)
@@ -149,9 +173,11 @@
 - [workspaceer](https://github.com/rickbutton/workspacer) - a tiling window manager for Windows . (C#)
 - [yattal](https://github.com/LGUG2Z/yatta) - A tiling window manager for Windows 10 based on binary space partitioning . (rust)
 
+---
+
 ### Terminals
 
-##### Cross Platform
+#### Cross Platform
 
 - [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator. (rust)
 - [CRTerm](https://github.com/bolner/CRTerm) - CRT Terminal emulator (OpenGL). (java)
@@ -175,7 +201,7 @@
 - [xtermSharp](https://github.com/migueldeicaza/XtermSharp) - XTerm emulator as a .NET library . (C#)
 - [xterm.dart](https://github.com/TerminalStudio/xterm.dart) - xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms. (dart)
 
-##### Linux
+#### Linux
 
 - [Aminal](https://github.com/liamg/aminal) - Golang terminal emulator from scratch. (go)
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display. (qml)
@@ -209,7 +235,7 @@
 - [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology. (c++)
 - [yat](https://github.com/jorgen/yat) - Terminal Emulator written in C++ and qml. (C++)
 
-##### MacOS
+#### MacOS
 
 - [Cathod](http://www.secretgeometry.com/apps/cathode/) - Cathode is a fully customizable terminal app with a look inspired by classic computers. (closed-source)
 - [dm270](https://github.com/dmolony/dm3270) - tn3270 Terminal Emulator. (java)
@@ -220,7 +246,7 @@
 - [Tinyterm](https://github.com/yongchaofan/tinyTerm) - simple, small and scriptable terminal emulator. (c)
 - [Zoc terminal](https://www.emtec.com/zoc/) - SSH Client and Terminal Emulator for Windows and macOS. (closed-source)
 
-##### Windows
+#### Windows
 
 - [Babun](http://babun.github.io/) - A Windows shell you will love. (shell)
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more. (c++)
@@ -232,7 +258,7 @@
   (closed-source)
 - [Windows-Terminal](https://github.com/microsoft/terminal) - Official windows terminal by microsoft. (C++)
 
-##### Other
+#### Other
 
 - [GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client. (javaScript)
 - [JQuery.terminal](https://terminal.jcubic.pl/) - A plugin for creating command line interpreters. (javascript)
@@ -241,6 +267,8 @@
 - [kterminal](https://github.com/heatherhaks/kterminal) - A terminal display emulator using libKTX and libGDX. (kotlin)
 - [fbpad](https://github.com/aligrudi/fbpad) - A small Linux framebuffer virtual terminal. (C)
 - [fauxterm](https://github.com/isdampe/fauxTerm) - A lightweight (~2KB), faux, terminal-like emulator for the web in javascript. (JavaScript)
+
+---
 
 ### Bars and Panels
 
@@ -296,9 +324,11 @@
 - [yagostatus](https://github.com/burik666/yagostatus) - Yet Another i3status replacement. (go)
 - [yambar](https://codeberg.org/dnkl/yambar) - Modular status panel for X11 and Wayland, inspired by polybar. (C)
 
+---
+
 ### CLI Tools
 
-##### System Monitors
+#### System Monitors
 
 - [Atop](https://github.com/Atoptool/atop) - System and process monitor for Linux. (C)
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor (bash)
@@ -312,9 +342,9 @@
 - [vtop](https://github.com/MrRio/vtop) - A graphical activity monitor for the command line. (js)
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor. (rust)
 
-##### audio visualizers
+#### audio visualizers
 
-(cli)
+##### cli
 
 - [cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa. (C)
 - [catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows. (go)
@@ -322,7 +352,7 @@
 - [ReVidia-Audio-Visualizer](https://github.com/GhostNaN/ReVidia-Audio-Visualizer) - A highly customizable real time audio visualizer on Linux/Windows. (python)
 - [xava](https://github.com/nikp123/xava) - X11 Audio Visualizer for ALSA. (C)
 
-(non-cli)
+##### non-cli
 
 - [audio-visualizer](https://github.com/JonathanZWhite/audio-visualizer) - Processing program for visualizing music and sounds. (java)
 - [audio-visualizer-screenlet](https://github.com/ninlith/audio-visualizer-screenlet) - Cross-platform audio visualization desktop widget. (python)
@@ -331,7 +361,7 @@
 - [glava](https://github.com/jarcode-foss/glava) - GLava - OpenGL audio spectrum visualizer. (C)
 - [visualizer](https://github.com/GuidoFe/visualizer) - Transforms cava music visualizer in a cool desktop decoration. (shell)
 
-##### CLI File mangers
+#### File mangers
 
 [Courtesy - @siduck76]
 
@@ -353,7 +383,7 @@
 - [vifm](https://github.com/vifm/vifm) - Terminal file manager. (C)
 - [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer. (Rust)
 
-##### Weather Tools
+#### Weather Tools
 
 - [ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
 - [Sky](https://gitlab.com/ceda_ei/sky) - A simple weather monitor server for your terminal based on curl
@@ -425,7 +455,7 @@
 - [snownews](https://github.com/msharov/snownews) - A text-mode RSS/Atom aggregator. (C)
 - [ureader](https://github.com/pxqr/ureader) - A minimalistic cli RRS reader with unicode and color support. (Haskell)
 
-##### Misc Tools
+#### Misc Tools
 
 - [Cbonsai](https://gitlab.com/jallbrit/cbonsai) - grow bonsai trees in your terminal. (C)
 - [Chalk-Animation](https://github.com/bokub/chalk-animation) - Colorful animations on terminal. (javascript)
@@ -440,7 +470,7 @@
 - [Themer](https://github.com/mjswensen/themer) - themer takes a set of colors and generates themes for your apps. (javascript)
 - [tdrop](https://github.com/noctuid/tdrop) - A glorified WM-independent dropdown creator. (Shell)
 
-##### Informative
+#### Informative
 
 - [Getnews.tech](https://github.com/omgimanerd/getnews.tech) - A web server that fetches data from the News API and formats it for display in the terminal. (javascript)
 - [Howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line. (python)
@@ -466,6 +496,14 @@
 - [rainglow](https://github.com/rainglow) - A collection of over 320 different color themes for various terminals and editors.
 - [rose-pine](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 - [tokyo-night](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark colorscheme that celebrates the lights of downtown Tokyo at night.
+
+#### colorscheme-generators
+
+- [oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a Materia and Oomox themes (GTK2, GTK3 and others). (python)
+- [wpgtk](https://github.com/deviantfero/wpgtk) - a colorscheme, wallpaper and template manager for \*nix. (python)
+
+
+---
 
 ### Shells
 
@@ -537,12 +575,7 @@
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
 - [wish](https://gitlab.com/ceda_ei/wish) - A customizable, extensible, themable bash prompt
 
-### colorscheme-generators
-
-- [oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a Materia and Oomox themes (GTK2, GTK3 and others). (python)
-- [wpgtk](https://github.com/deviantfero/wpgtk) - a colorscheme, wallpaper and template manager for \*nix. (python)
-
-#### Wallpapers
+---
 
 ### Background setting utilities and generators
 
@@ -579,8 +612,8 @@
 
 ### Other
 
-- [Guide to Switching to Ubuntu on Reddit](https://www.reddit.com/r/linux4noobs/comments/ejsz3v/still_on_windows_7_dont_want_windows_10_consider/) - A Beginner-frendly guide on how to switch to Ubuntu as a Daily Driver.
 - [ArchWiki](https://wiki.archlinux.org/) - The Bible of linux configuration/resources.
+- [Guide to Switching to Ubuntu on Reddit](https://www.reddit.com/r/linux4noobs/comments/ejsz3v/still_on_windows_7_dont_want_windows_10_consider/) - A Beginner-frendly guide on how to switch to Ubuntu as a Daily Driver.
 
 ## Communities
 
@@ -591,7 +624,7 @@
 - [r/unixporn](https://www.reddit.com/r/unixporn/) - A coumminty all about Ricing up Linux.
 - [r/terminal_porn](https://www.reddit.com/r/terminal_porn/) - The unixporn of terminals.
 
-#### TODO:
+## TODO:
 
 - More color palette
 - Add wallpaper sources
@@ -613,3 +646,5 @@ Your contributions are always welcome! Please take a look at our [contribution g
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sparkenstein](https://github.com/Sparkenstein) has waived all copyright and related or neighboring rights to this work.
+
+<div align="center"> Made with ❤️  by the community </div>
