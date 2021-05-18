@@ -647,4 +647,4 @@ Your contributions are always welcome! Please take a look at our [contribution g
 
 To the extent possible under law, [Sparkenstein](https://github.com/Sparkenstein) has waived all copyright and related or neighboring rights to this work.
 
-<center> Made with ❤️  by the community </center>
+<div align="center"> Made with ❤️  by the community </div>
