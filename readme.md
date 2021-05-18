@@ -7,23 +7,47 @@
 	<img src="https://awesome.re/badge.svg" alt="Awesome Badge">
 </div>
 
-# Contents
-
+## Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Packages](#packages)
+  - [window-managers](#window-managers)
+    - [Linux](#linux)
+      - [Tiling wms](#tiling-wms)
+      - [Stacking and floating wms](#stacking-and-floating-wms)
+      - [Dynamic tiling wms](#dynamic-tiling-wms)
+    - [MacOS](#macos)
+    - [Windows](#windows)
   - [Terminals](#terminals)
-  - [Bars/Panels](#bars-and-panels)
-  - [Window manager](#window-managers)
+    - [Cross Platform](#cross-platform)
+    - [Linux](#linux-1)
+    - [MacOS](#macos-1)
+    - [Windows](#windows-1)
+    - [Other](#other)
+  - [Bars and Panels](#bars-and-panels)
   - [CLI Tools](#cli-tools)
-  - [GUI Tools](#gui-tools)
-  - [Themes and ColorSchemes](#colorschemes)
+    - [System Monitors](#system-monitors)
+    - [audio visualizers](#audio-visualizers)
+      - [cli](#cli)
+      - [non-cli](#non-cli)
+    - [File mangers](#file-mangers)
+    - [Weather Tools](#weather-tools)
+    - [Fetches](#fetches)
+    - [RSS/Atom Feed Readers](#rssatom-feed-readers)
+    - [Misc Tools](#misc-tools)
+    - [Informative](#informative)
+  - [Colorschemes](#colorschemes)
+    - [colorscheme-generators](#colorscheme-generators)
   - [Shells](#shells)
   - [Prompts](#prompts)
-  - [colorscheme-generators](#colorscheme-generators)
-- [Resources](#resources)
-  - [Wallpapers](#wallpapers)
-  - [Other](#other)
+  - [Background setting utilities and generators](#background-setting-utilities-and-generators)
+  - [resources (websites)](#resources-websites)
+  - [Other](#other-1)
 - [Communities](#communities)
   - [Reddit](#reddit)
+- [TODO:](#todo)
+- [Related lists](#related-lists)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Packages
 
@@ -600,7 +624,7 @@
 - [r/unixporn](https://www.reddit.com/r/unixporn/) - A coumminty all about Ricing up Linux.
 - [r/terminal_porn](https://www.reddit.com/r/terminal_porn/) - The unixporn of terminals.
 
-#### TODO:
+## TODO:
 
 - More color palette
 - Add wallpaper sources
