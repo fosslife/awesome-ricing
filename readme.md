@@ -8,6 +8,7 @@
 </div>
 
 ## Table of Contents
+
 - [Table of Contents](#table-of-contents)
 - [Packages](#packages)
   - [window-managers](#window-managers)
@@ -411,6 +412,7 @@
 - [Hyperfetch](https://github.com/ralseiii/hyperfetch) - a multi-threaded system information tool written in posix sh. (shell)
 - [Kat-OH](https://github.com/70xH/Kat-OH) - A huge fetch. (go)
 - [lfetch](https://github.com/TheUpBeat/lfetch) - Yet another fetch program. (C)
+- [fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux. (c)
 - [ferris-fetch](https://github.com/irevenko/ferris-fetch) - A system information tool for Rustaceans.(rust)
 - [fetch](https://github.com/aeosynth/fetch) - polyglot fetch. (javaScript,rust,go)
 - [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Simple Dilbert themed system info-fe A system information tool for fetching tool. (perl)
@@ -502,7 +504,6 @@
 - [oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a Materia and Oomox themes (GTK2, GTK3 and others). (python)
 - [wpgtk](https://github.com/deviantfero/wpgtk) - a colorscheme, wallpaper and template manager for \*nix. (python)
 
-
 ---
 
 ### Shells
@@ -584,7 +585,7 @@
 - [BashDynamicPaper](https://github.com/wtheisen/BashDynamicPaper) - Dynamic wallpaper setter.(shell)
 - [battery-wallpaper](https://github.com/adi1090x/battery-wallpaper) - Simple bash script to set wallpaper according to battery percentage with charging animations. (shell)
 - [bing-desktop-wallpaper-changer](https://github.com/UtkarshGpta/bing-desktop-wallpaper-changer) - Automatically changes desktop wallpaper to Bing Photo of the Day for Linux with Gnome. (shell) !!
-- [canvas](https://github.com/adi1090x/canvas) -  A Gradient / Blured Wallpaper Generator And Setter. (shell)
+- [canvas](https://github.com/adi1090x/canvas) - A Gradient / Blured Wallpaper Generator And Setter. (shell)
 - [chwall](https://git.umaneti.net/chwall/about/) - tiny automatic wallpaper changer. (python)
 - [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler .(shell)
 - [fbsetbg](https://github.com/hboetes/fbsetbg) - Set your wallpaper with the best available application. (C)
@@ -597,6 +598,7 @@
 - [quickwall](https://github.com/deepjyoti30/QuickWall) - Set latest wallpapers from Unsplash from the commandline. (python)
 - [setroot](https://github.com/ttzhou/setroot) - simple X background setter inspired by imlibsetroot and feh. (C)
 - [Unsplash-Random-Wallpaper-Setter](https://github.com/tymscar/Unsplash-Random-Wallpaper-Setter) - simple script that changes your wallpaper to a random image from unsplash.it (shell)
+- [Vallpaper](https://github.com/lehklu/Vallpaper) - Plasma5 wallpaper for different desktops. (QML)
 - [xwallpaper](https://github.com/stoeckmann/xwallpaper) - wallpaper setting utility for X . (C)
 - [xwinwrapl](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background. (C)
 - [wallpaper-generator](https://github.com/timozattol/wallpaper-generator) - A simple wallpaper generator. (python)
