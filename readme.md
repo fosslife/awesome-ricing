@@ -338,8 +338,11 @@
 - [Gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop. (go,C)
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal. (js)
 - [Htop](hisham.hm/htop/) - htop is an interactive text-mode process viewer for Unix systems. (C)
+- [Nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool. (C)
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (go)
-- [S-tui](https://github.com/amanusk/s-tui) - Terminal based CPU stress and monitoring utility. (python)
+- [s-tui](https://github.com/amanusk/s-tui) - Terminal based CPU stress and monitoring utility. (python)
+- [smterminal](https://github.com/gurayyarar/smterminal) - System monitoring for terminal on Linux, OSX and Windows. (typescript)
+- [sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux. (C)
 - [vtop](https://github.com/MrRio/vtop) - A graphical activity monitor for the command line. (js)
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor. (rust)
 
