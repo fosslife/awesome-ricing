@@ -59,6 +59,7 @@
 ##### Tiling wms
 
 - [Bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning. (C)
+- [cocowm](https://github.com/tleino/cocowm) - Column Commander Window Manager for X11 Window System. (C)
 - [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell .(JavaScript)
 - [catwm](https://github.com/pyknite/catwm) - very simple tiling window manager. (C)
 - [coma](https://github.com/jorisvink/coma) - My minimalistic X11 window manager. (C)
@@ -73,7 +74,10 @@
 - [leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers. (rust)
 - [marwind](https://github.com/patrislav/marwind) - A simple X11 tiling window manager .(go)
 - [notion](https://github.com/raboof/notion) - Tiling tabbed window manager. (C,Lua)
+- [pytyle1x](https://github.com/zehkira/pytyle1x) - Tiling manager which runs on top of EWMH window managers. (python)
 - [qtile](https://github.com/qtile/qtile) - A full-featured, hackable tiling window manager written and configured in Python .(python)
+- [quicktile](https://github.com/ssokolow/quicktile) - (Adds window-tiling hotkeys to any X11 desktop. (An analogue to WinSplit Revolution for people who don't want to use Compiz Grid (python)
+
 - [ratpoison](https://www.nongnu.org/ratpoison/) - simple Window Manager with no fat library dependencies.(C)
 - [sara](https://github.com/gitluin/sara) - Originally a fork of catwm, now an offspring of dwm with a streamlined featureset, plus some bspwm. (C)
 - [sdorfehs](https://github.com/jcs/sdorfehs) - X11 Window manager. (C)
@@ -84,6 +88,7 @@
 - [taowm](https://github.com/nigeltao/taowm) - The Acutely Opinionated Window Manager .(go)
 - [tidalwm](https://github.com/rustysec/tidalwm) - Simple and sane tiling window manager for Gnome Shell .(JavaScript)
 - [wmderland](https://github.com/aesophor/wmderland) - X11 tiling window manager using space partitioning trees .(C++)
+- [wmii](https://github.com/0intro/wmii) - A small, scriptable window manager, with a 9P filesystem interface and an acme-like layout. (C)
 - [xoat](https://github.com/seanpringle/xoat) - An obstinate, asymmetric, tiling, window manager for X. (C)
 
 ##### Stacking and floating wms
@@ -101,18 +106,22 @@
 - [cwm](https://github.com/leahneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager (C)
 - [eggwm](https://code.google.com/archive/p/eggwm) - A lightweight QT4/QT5 window manager. (C++)
 - [evilwm](https://github.com/nikolas/evilwm) - A really great window manager that's usable without writing a 20 line configuration file. (C)
+- [footwm-chez](https://github.com/akce/footwm-chez) - Implementation of footwm in chez scheme. (scheme)
 - [fluxbox](https://github.com/fluxbox/fluxbox) - a windowmanager for X that was based on the Blackbox. (C++)
 - [flwm](https://github.com/bbidulock/flwm) - fast light window manager. (C)
 - [fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2. (C)
 - [gala](https://github.com/elementary/gala) - beautiful window manager for Pantheon. (vala)
 - [goomwm](https://github.com/seanpringle/goomwwm) - Get out of my way, Window Manager! . (C)
+- [HOTDOG](https://github.com/arthurchoung/HOTDOG) - X11 Window Manager with Windows 3.1 Hot Dog Stand, Amiga Workbench, Atari ST GEM, and Classic Mac UI. (objective-c)
 - [icewm](https://github.com/bbidulock/icewm) - A window manager designed for speed, usability, and consistency. (C++)
+- [lcarswm](https://github.com/lcarsde/lcarswm) - carswm (LCARS Window Manager) is a window manager that is supposed to look like an LCARS interface. It's written in Kotlin and utilizing XLib. (kotlin)
 - [jbwm](https://github.com/jefbed/jbwm) - Tiny and powerful window manager for X11. (C)
 - [jwm](https://github.com/joewing/jwm) - Joe's window manager. (C)
 - [karmen](http://karmen.sourceforge.net/) - A window manager with support for docks and hidpi displays. (C)
 - [kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, X Window Manager and Wayland Compositor. (C++)
 - [marco](https://github.com/mate-desktop/marco) - mate's default wm. (C)
 - [metacity](https://gitlab.gnome.org/GNOME/metacity) - Gnome 2 wm . (C)
+- [miniwinwm](https://github.com/miniwinwm/miniwinwm) - Open source embedded window manager with overlapped windows. (C)
 - [muffin](https://github.com/linuxmint/muffin/) - The window management library for the Cinnamon desktop (libmuffin) and its sample WM binary (muffin) . (C)
 - [mutter](https://gitlab.gnome.org/GNOME/mutter/) - A Wayland display server and X11 window manager and compositor library.
 - [no-wm](https://github.com/patrickhaller/no-wm) - Use X11 without a window manager . (C)
@@ -134,17 +143,21 @@
 
 ##### Dynamic tiling wms
 
+- [adwm](https://github.com/bbidulock/adwm) - advanced dynamic window manager. (C)
 - [Alopex](https://github.com/TrilbyWhite/alopex) - tabbed tiling window manager .(C)
 - [awesome](https://github.com/awesomeWM/awesome) - awesome window manager .(lua)
 - [chamferwm](https://github.com/jaelpark/chamferwm) - A tiling X11 window manager with Vulkan compositor. (C++)
 - [dwm](https://dwm.suckless.org/) - dynamic window manager. (C)
 - [frankenwm](https://github.com/sulami/FrankenWM) - Fast dynamic tiling X11 window manager. (C)
 - [instantwm](https://github.com/instantOS/instantWM)- window manager for instantOS . (C)
+- [kranewm](https://github.com/deurzen/kranewm) - An ICCCM & EWMH compliant X11 reparenting, dynamic window manager. (C++)
 - [monsterwm](https://github.com/c00kiemon5ter/monsterwm) - tiny but monstrous tiling window manager. (C)
 - [nwm](https://github.com/mixu/nwm) - A dynamic window manager for X11 written with Node.js. (Javascript)
 - [sawfish](https://github.com/SawfishWM/sawfish) - Sawfish Window-Manager (Common Lisp)
 - [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11. (C)
+- [sxwm](https://github.com/jasonmxyz/sxwm) - Superior X Window Manager. (C)
 - [wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager. (go)
+- [wzrd](https://github.com/deurzen/wzrd) - An ICCCM & EWMH compliant X11 reparenting, dynamic window manager. (rust)
 - [xmonad](https://github.com/xmonad/xmonad) - a small but functional ICCCM-compliant tiling window manager . (Haskell)
 
 #### MacOS
@@ -156,14 +169,17 @@
 - [chunkwm](https://github.com/saforem2/chunkwm) - Tiling window manager for MacOS based on plugin architecture . (C++)
 - [darwintiler](https://github.com/veryjos/darwintiler) - No frills, super easy tiling "window manager" for MacOS and x11/Linux. (C, Nim)
 - [hhtwm](https://github.com/szymonkaliski/hhtwm) - hackable tiling window manager for macOS and Hammerspoon. (Lua)
+- [Moonstone](https://github.com/Sweets/Moonstone) - Manual tiling window manager for MacOS .(objective-c)
 - [penc](https://github.com/dgurkaynak/Penc) - Trackpad-oriented window manager for macOS. (swift)
 - [phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript. (objective-c)
 - [x3](https://github.com/tmandry/x3) - A window manager for macOS. (swift)
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning .(C)
+- [stackline](https://github.com/AdamWagner/stackline) - [NOT A WM] Visualize yabai window stacks on macOS. Works with yabai & hammerspoon. (lua)
 - [zwm](https://github.com/z3t0/zwm) - macOS window manager running on Hammerspoon. (lua)
 
 #### Windows
 
+- [Amethystwindows](https://github.com/glsorre/amethystwindows) - Automatic tiling window manager for Windows 10. (C#)
 - [Hastwm](https://github.com/ZaneA/HashTWM) - An automatic Tiling Window Manager for the Windows OS. (C)
 - [MyWinTiles](https://github.com/CSaratakij/MyWinTiles) - Tiling window manager for Windows 10, Built on top of explorer shell. (C++)
 - [dwm-win32](https://github.com/martanne/dwm-win32)- dwm ported for windows. (C)
@@ -174,6 +190,10 @@
 - [windows-tiling-window-manager](https://github.com/math0ne/windows-tiling-window-manager) - A very simple tiling window manager for Windows 7 - 10. (AutoHotkey) -[bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows. (AutoHotkey)
 - [workspaceer](https://github.com/rickbutton/workspacer) - a tiling window manager for Windows . (C#)
 - [yattal](https://github.com/LGUG2Z/yatta) - A tiling window manager for Windows 10 based on binary space partitioning . (rust)
+
+#### Other
+
+- [vioarr](https://github.com/Meulengracht/vioarr) - pen source, cross-platform window manager. Default window manager for Vali/MollenOS. (C)
 
 ---
 
@@ -303,6 +323,7 @@
 - [oxbar](https://github.com/ryanflannery/oxbar) - configurable X11 status bar for OpenBSD. (C)
 - [perlpanel](https://savannah.nongnu.org/projects/perlpanel/) - Panel made for X11 wms like openbox , icewm. (perl)
 - [polybar](https://github.com/polybar/polybar) - A fast and easy to use bar. (C++)
+- [polydock](https://github.com/folke/polydock) - A shiny and hackable application dock. (typescript)
 - [py3status](https://github.com/ultrabug/py3status) - py3status is an extensible i3status wrapper. (python)
 - [pypanel](http://pypanel.sourceforge.net) - lightweight panel/taskbar for X11 wms (python , C)
 - [quobar](https://github.com/tv42/quobar) - X11 status bar. (go)
