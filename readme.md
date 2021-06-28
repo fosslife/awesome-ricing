@@ -130,6 +130,7 @@
 - [windowmaker](http://www.windowmaker.org/) - X11 window manager originally designed to provide integration support for the GNUstep Desktop Environment . (C)
 - [wm2](https://www.all-day-breakfast.com/wm2/) - a window manager for X. (C)
 - [xfwm3](https://gitlab.xfce.org/xfce/xfwm4) - xfce's window manager. (C)
+- [xwm](https://github.com/mcpcpc/xwm) - A tiny XCB floating window manager. (C)
 
 ##### Dynamic tiling wms
 
