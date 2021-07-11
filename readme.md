@@ -662,6 +662,12 @@
 - [r/unixporn](https://www.reddit.com/r/unixporn/) - A coumminty all about Ricing up Linux.
 - [r/terminal_porn](https://www.reddit.com/r/terminal_porn/) - The unixporn of terminals.
 
+### Ricing related public groups
+- [r/unixporn Discord](https://discord.gg/d53yESY/) - The official r/unixporn Discord server.
+- [DE_WM](https://t.me/DE_WM) - Friendly Ricing community on telegram.
+- [dotfiles_IN](https://t.me/dotfiles_id) - Dotfiles Indonesia ( not EN ).
+- [r/unixporn tg](https://t.me/joinchat/BQ8MHUbhQXRlB4d4MzxgOA) - r/unixporn telegram group.
+
 ## TODO:
 
 - More color palette
