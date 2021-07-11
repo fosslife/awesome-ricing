@@ -662,6 +662,9 @@
 - [r/unixporn](https://www.reddit.com/r/unixporn/) - A coumminty all about Ricing up Linux.
 - [r/terminal_porn](https://www.reddit.com/r/terminal_porn/) - The unixporn of terminals.
 
+### Discord
+- [r/unixporn Discord](https://discord.gg/d53yESY/) - The official r/unixporn Discord server.
+
 ## TODO:
 
 - More color palette
