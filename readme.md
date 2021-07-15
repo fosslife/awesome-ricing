@@ -679,7 +679,7 @@
 
 - [terminals are sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ## Contributing
 
