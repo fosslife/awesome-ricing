@@ -235,6 +235,7 @@
 - [Lilyterm](https://github.com/Tetralet/LilyTerm) - A lightweight, but functional terminal emulator. (C)
 - [lwt](https://github.com/mewkiz/lwt) - lightweight terminal emulator based on the VTE and GTK libraries. (C)
 - [KMSCON](https://github.com/dvdhrm/kmscon) - Linux KMS/DRM based virtual Console Emulator. (C)
+- [moonterm](https://github.com/sodomon2/moonterm) - A minimalist and customizable terminal in lua. (lua)
 - [Pantheon](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS. (vala)
 - [pyxterm](https://github.com/mitotic/pyxterm) - a terminal written in javaScript with a python backend. (javascript)
 - [quickterminal](https://github.com/trollixx/quickterminal) - Lightweight terminal emulator. (C++)
