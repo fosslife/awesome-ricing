@@ -30,7 +30,7 @@
     - [audio visualizers](#audio-visualizers)
       - [cli](#cli)
       - [non-cli](#non-cli)
-    - [File mangers](#file-mangers)
+    - [File managers](#file-managers)
     - [Weather Tools](#weather-tools)
     - [Fetches](#fetches)
     - [RSS/Atom Feed Readers](#rssatom-feed-readers)
@@ -388,7 +388,7 @@
 - [glava](https://github.com/jarcode-foss/glava) - GLava - OpenGL audio spectrum visualizer. (C)
 - [visualizer](https://github.com/GuidoFe/visualizer) - Transforms cava music visualizer in a cool desktop decoration. (shell)
 
-#### File mangers
+#### File managers
 
 [Courtesy - @siduck76]
 
@@ -438,6 +438,7 @@
 - [cppfetch](https://github.com/Phate6660/cppfetch) - A neofetch-esque program written in CPP. (C++)
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool. (C)
 - [crfetch](https://github.com/Phate6660/crfetch) - A WIP neofetch-like program. (cyrstal)
+- [disfetch](https://github.com/q60/disfetch) - Yet another \*nix distro fetching program, but less complex. (shell)
 - [erlfetch](https://github.com/vereis/erlfetch) - A screenfetch / neofetch clone written in Erlang/OTP. (erlang)
 - [gentoofetch](https://github.com/DmitryHetman/gentoofetch.sh) - System information script for Gentoo GNU/Linux. (shell)
 - [ghfetch](https://github.com/bwac2517/ghfetch) - neofetch but for github. (typescript)
