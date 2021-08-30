@@ -227,6 +227,7 @@
 
 - [Aminal](https://github.com/liamg/aminal) - Golang terminal emulator from scratch. (go)
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display. (qml)
+- [darktile](https://github.com/liamg/darktile) - a GPU rendered terminal emulator designed for tiling window managers. (go)
 - [deepin-terminal](https://github.com/linuxdeepin/deepin-terminal) - Terminal for deepin DE. (C++)
 - [eterm](https://github.com/mej/Eterm) - Eterm terminal emulator , made as a replacement for xterm. (C)
 - [finalterm](https://github.com/p-e-w/finalterm) - At last – a modern terminal emulator. (vala)
