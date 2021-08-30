@@ -455,6 +455,7 @@
 - [fetcheya](https://github.com/ferhatgec/fetcheya) - Fegeya Fetcheya is Scrift's System Information Tool. (C++)
 - [fetcher](https://github.com/ferhatgec/fetcher) - Fegeya Fetcher, pretty & cute system-information-tool. Written in FlaScript. (shell)
 - [freshfetch](https://github.com/K4rakara/freshfetch) - a fresh take on neofetch. (rust)
+- [frenzch.sh](https://github.com/FrenzyExists/frenzch.sh) - A cozy fetch
 - [fsi](https://github.com/MustafaSalih1993/fsi). FSI (Fetch System Info) cli tool. (rust)
 - [fsfetch](https://github.com/Phate6660/fsfetch) - A neofetch type program. (F#)
 - [jfetch](https://github.com/Jimmysit0/jfetch) - A minimal Linux fetch script. (shell)
