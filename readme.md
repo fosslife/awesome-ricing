@@ -374,6 +374,7 @@
 
 ##### cli
 
+- [barva](https://github.com/Kharacternyk/barva) - An audio visualizer that pulses the background of your terminal (or anything else). (python)
 - [cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa. (C)
 - [catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows. (go)
 - [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer. (C++)
@@ -387,7 +388,11 @@
 - [desktop-visualizer](https://github.com/TheBITLINK/desktop-visualizer) - Linux Desktop Music visualizer made with SFML. (C++)
 - [electron-music-visualizer](https://github.com/mak-thevar/electron-music-visualizer) - A desktop music visualizer using electronjs. (JavaScript)
 - [glava](https://github.com/jarcode-foss/glava) - GLava - OpenGL audio spectrum visualizer. (C)
+- [panon](https://github.com/rbn42/panon) - An Audio Visualizer Widget in KDE Plasma. (QML)
+- [recidia-audio-visualizer](https://github.com/GhostNaN/recidia-audio-visualizer) - A highly customizable real time audio visualizer on Linux (C++)
+- [Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio. (python)
 - [visualizer](https://github.com/GuidoFe/visualizer) - Transforms cava music visualizer in a cool desktop decoration. (shell)
+- [visualizers](https://github.com/efyang/visualizers) - An audio visualizer for linux based on impulse. (rust)
 
 #### File managers
 
