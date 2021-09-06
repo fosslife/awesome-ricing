@@ -483,7 +483,7 @@
 - [rktfetch](https://github.com/mythical-linux/rktfetch) - System fetch program. (racket)
 - [rsfetch](https://github.com/rsfetch/rsfetch) - Fast (~1ms execution time) and somewhat(?) minimal fetch program. (rust)
 - [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch. (rust)
-- [rfetch](https://github.com/Mangeshrex/rfetch) - minimal and pretty fetch. (shell)
+- [rxfetch](https://github.com/Mangeshrex/rfetch) - minimal and pretty fetch. (shell)
 - [sfetch](https://github.com/HenryDawson123/sfetch) - A simple fetch program. (C++)
 - [sheen](https://github.com/digitalsurvival/sheen) - Cross-platform desktop screenshot boasting tool (neo/screenFetch reimplemented). (python)
 - [tfetch](https://github.com/Endlassy/tfetch) - Tree view like fetch. (python)
@@ -544,6 +544,7 @@
 - [rainglow](https://github.com/rainglow) - A collection of over 320 different color themes for various terminals and editors.
 - [rose-pine](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 - [tokyo-night](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark colorscheme that celebrates the lights of downtown Tokyo at night.
+- [UwU](https://github.com/Mangeshrex/uwu.vim) - A dark and independent colorscheme purrying >,< 
 
 #### colorscheme-generators
 
