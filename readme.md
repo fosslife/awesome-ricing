@@ -138,6 +138,7 @@
 - [waimea](https://github.com/bbidulock/waimea) - An X11 window manager designed for maximum efficiency. (C++)
 - [windowlab](https://github.com/nickgravgaard/windowlab) - A small and simple window manager of novel design . (C)
 - [windowmaker](http://www.windowmaker.org/) - X11 window manager originally designed to provide integration support for the GNUstep Desktop Environment . (C)
+- [vswm](https://github.com/fehawen/vswm) - A very stupid window manager. (C)
 - [wm2](https://www.all-day-breakfast.com/wm2/) - a window manager for X. (C)
 - [xfwm3](https://gitlab.xfce.org/xfce/xfwm4) - xfce's window manager. (C)
 - [xwm](https://github.com/mcpcpc/xwm) - A tiny XCB floating window manager. (C)
