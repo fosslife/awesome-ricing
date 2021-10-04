@@ -4,7 +4,7 @@
 	</div>
 	<br>
 	<p> A curated list of awesome tools and technologies to make your Operating System look beautiful ❤️ </p>
-	<img src="https://awesome.re/badge.svg" alt="Awesome Badge">
+	<img src="https://awesome.re/badge.svg" alt="Awesome Badage">
 </div>
 
 ## Table of Contents
@@ -359,6 +359,7 @@
 
 - [Atop](https://github.com/Atoptool/atop) - System and process monitor for Linux. (C)
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor (bash)
+- [btop](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor (C++)
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (rust)
 - [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative. (python)
 - [Gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop. (go,C)
