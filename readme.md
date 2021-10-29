@@ -449,6 +449,7 @@
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool. (C)
 - [crfetch](https://github.com/Phate6660/crfetch) - A WIP neofetch-like program. (cyrstal)
 - [disfetch](https://github.com/q60/disfetch) - Yet another \*nix distro fetching program, but less complex. (shell)
+- [elefetch](https://github.com/burntcarrot/elefetch) - Cross-platform alternative for neofetch. (go)
 - [erlfetch](https://github.com/vereis/erlfetch) - A screenfetch / neofetch clone written in Erlang/OTP. (erlang)
 - [gentoofetch](https://github.com/DmitryHetman/gentoofetch.sh) - System information script for Gentoo GNU/Linux. (shell)
 - [ghfetch](https://github.com/bwac2517/ghfetch) - neofetch but for github. (typescript)
@@ -464,6 +465,7 @@
 - [fet.sh](https://github.com/6gk/fet.sh) - a fetch written in posix shell without any external commands. (shell)
 - [fetcheya](https://github.com/ferhatgec/fetcheya) - Fegeya Fetcheya is Scrift's System Information Tool. (C++)
 - [fetcher](https://github.com/ferhatgec/fetcher) - Fegeya Fetcher, pretty & cute system-information-tool. Written in FlaScript. (shell)
+- [fetch.scm](https://github.com/KikyTokamuro/fetch.scm) - System information fetcher written in GNU Guile (scheme)
 - [freshfetch](https://github.com/K4rakara/freshfetch) - a fresh take on neofetch. (rust)
 - [frenzch.sh](https://github.com/FrenzyExists/frenzch.sh) - A cozy fetch
 - [fsi](https://github.com/MustafaSalih1993/fsi). FSI (Fetch System Info) cli tool. (rust)
@@ -471,17 +473,18 @@
 - [jfetch](https://github.com/Jimmysit0/jfetch) - A minimal Linux fetch script. (shell)
 - [lovefetch](https://github.com/oppsec/lovefetch) - A CLI System Information Too. (Python)
 - [lunafetch](https://github.com/SugarBlank/LunaFetch) - Returns system information fast. (C++)
+- [luafetch](https://github.com/Phate6660/luafetch) - Info fetch program. (lua)
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher, with an emphasis on performance and minimalism. (rust)
 - [mafetch](https://github.com/fikriomar16/mafetch) - System info for Unix-like operating systems. (shell)
 - [mfetch](https://github.com/depsterr/mfetch) - minmal fetch. (shell)
 - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+ . (shell)
 - [nerdfetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX nix fetch script using Nerdfonts. (shell)
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal. (rust)
-- [paleofetch](https://github.com/ss7m/paleofetch) - neofetch, but written in C.
+- [paleofetch](https://github.com/ss7m/paleofetch) - neofetch, but written in (C).
+- [perlfetch](https://github.com/Phate6660/perlfetch) - Think neofetch but in (perl)
 - [phpfetch](https://github.com/Phate6660/phpfetch) - An info fetch tool written in PHP. Because why not. /shrug
 - [pokefetch](https://github.com/rmccorm4/Pokefetch) - Command-line tool similar to neofetch for looking up pokemon in terminal. (python)
 - [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh. (shell)
-- [pridfetch](https://github.com/charpointer/pridefetch) - neofetch but gay. (python)
 - [profetch](https://github.com/RustemB/profetch) - System Information Fetcher Written in GNU/Prolog. (Prolog)
 - [rktfetch](https://github.com/mythical-linux/rktfetch) - System fetch program. (racket)
 - [rsfetch](https://github.com/rsfetch/rsfetch) - Fast (~1ms execution time) and somewhat(?) minimal fetch program. (rust)
@@ -489,6 +492,8 @@
 - [rxfetch](https://github.com/Mangeshrex/rfetch) - minimal and pretty fetch. (shell)
 - [sfetch](https://github.com/HenryDawson123/sfetch) - A simple fetch program. (C++)
 - [sheen](https://github.com/digitalsurvival/sheen) - Cross-platform desktop screenshot boasting tool (neo/screenFetch reimplemented). (python)
+- [sysfetch](https://github.com/mebesus/sysfex) - Another system information tool. (C++)
+- [tuatara](https://github.com/q60/tuatara) - Ziggidy nix system info fetcher. (zig)
 - [tfetch](https://github.com/Endlassy/tfetch) - Tree view like fetch. (python)
 - [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots. (shell)
 - [ufetch](https://gitlab.com/jschx/ufetch) - Tiny system info for Unix-like operating systems. (shell)
@@ -496,6 +501,7 @@
 - [vfetch](https://github.com/Lorago/vfetch) - A simple fetch tool for Linux . (python)
 - [winfetch](https://github.com/lptstr/winfetch) - A command-line system information utility.Like Neofetch, but for Windows. (Powershell)
 - [winfetch](https://github.com/M4cs/winfetch) - Neofetch/Screenfetch Alternative. (go)
+- [wfetch](https://github.com/freddie-nelson/wfetch) - A neofetch like cli tool for windows. (go)
 - [yafetch](https://github.com/yrwq/yafetch) - yet another shell. (C)
 - [yayfetch](https://github.com/golota60/yayfetch) - Multi-platform screenfetch. (typescript)
 
