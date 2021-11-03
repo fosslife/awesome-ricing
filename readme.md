@@ -159,6 +159,7 @@
 - [sawfish](https://github.com/SawfishWM/sawfish) - Sawfish Window-Manager (Common Lisp)
 - [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11. (C)
 - [sxwm](https://github.com/jasonmxyz/sxwm) - Superior X Window Manager. (C)
+- [velox](https://github.com/michaelforney/velox) - Window manager inspired by dwm and xmonad. (C)
 - [wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager. (go)
 - [wzrd](https://github.com/deurzen/wzrd) - An ICCCM & EWMH compliant X11 reparenting, dynamic window manager. (rust)
 - [xmonad](https://github.com/xmonad/xmonad) - a small but functional ICCCM-compliant tiling window manager . (Haskell)
@@ -553,7 +554,7 @@
 - [rainglow](https://github.com/rainglow) - A collection of over 320 different color themes for various terminals and editors.
 - [rose-pine](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 - [tokyo-night](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark colorscheme that celebrates the lights of downtown Tokyo at night.
-- [UwU](https://github.com/Mangeshrex/uwu.vim) - A dark and independent colorscheme purrying >,< 
+- [UwU](https://github.com/Mangeshrex/uwu.vim) - A dark and independent colorscheme purrying >,<
 
 #### colorscheme-generators
 
@@ -683,6 +684,7 @@
 - [r/terminal_porn](https://www.reddit.com/r/terminal_porn/) - The unixporn of terminals.
 
 ### Ricing related public groups
+
 - [r/unixporn Discord](https://discord.com/invite/unixporn) - The official r/unixporn Discord server.
 - [DE_WM](https://t.me/DE_WM) - Friendly Ricing community on telegram.
 - [dotfiles_IN](https://t.me/dotfiles_id) - Dotfiles Indonesia ( not EN ).
