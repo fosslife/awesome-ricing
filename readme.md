@@ -12,17 +12,10 @@
 - [Table of Contents](#table-of-contents)
 - [Packages](#packages)
   - [window-managers](#window-managers)
-    - [Linux](#linux)
       - [Tiling wms](#tiling-wms)
       - [Stacking and floating wms](#stacking-and-floating-wms)
       - [Dynamic tiling wms](#dynamic-tiling-wms)
-    - [MacOS](#macos)
-    - [Windows](#windows)
   - [Terminals](#terminals)
-    - [Cross Platform](#cross-platform)
-    - [Linux](#linux-1)
-    - [MacOS](#macos-1)
-    - [Windows](#windows-1)
     - [Other](#other)
   - [Bars and Panels](#bars-and-panels)
   - [CLI Tools](#cli-tools)
@@ -54,8 +47,6 @@
 
 ### window-managers
 
-#### Linux
-
 ##### Tiling wms
 
 - [Bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning. (C)
@@ -78,7 +69,6 @@
 - [pytyle1x](https://github.com/zehkira/pytyle1x) - Tiling manager which runs on top of EWMH window managers. (python)
 - [qtile](https://github.com/qtile/qtile) - A full-featured, hackable tiling window manager written and configured in Python .(python)
 - [quicktile](https://github.com/ssokolow/quicktile) - (Adds window-tiling hotkeys to any X11 desktop. (An analogue to WinSplit Revolution for people who don't want to use Compiz Grid (python)
-
 - [ratpoison](https://www.nongnu.org/ratpoison/) - simple Window Manager with no fat library dependencies.(C)
 - [sara](https://github.com/gitluin/sara) - Originally a fork of catwm, now an offspring of dwm with a streamlined featureset, plus some bspwm. (C)
 - [sdorfehs](https://github.com/jcs/sdorfehs) - X11 Window manager. (C)
@@ -164,37 +154,6 @@
 - [wzrd](https://github.com/deurzen/wzrd) - An ICCCM & EWMH compliant X11 reparenting, dynamic window manager. (rust)
 - [xmonad](https://github.com/xmonad/xmonad) - a small but functional ICCCM-compliant tiling window manager . (Haskell)
 
-#### MacOS
-
-- [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (swift)
-- [AppGrid](https://github.com/mjolnirapp/AppGrid) - macOS window manager with Vim–like hotkeys. (objective-c)
-- [Autumn](https://github.com/apandhi/Autumn) - A macOS window manager for JavaScript hackers. (typescript)
-- [Xmomad](https://github.com/fjolnir/xnomad) - A tiling window manager for OS X, written in tranquil. (C)
-- [chunkwm](https://github.com/saforem2/chunkwm) - Tiling window manager for MacOS based on plugin architecture . (C++)
-- [darwintiler](https://github.com/veryjos/darwintiler) - No frills, super easy tiling "window manager" for MacOS and x11/Linux. (C, Nim)
-- [hhtwm](https://github.com/szymonkaliski/hhtwm) - hackable tiling window manager for macOS and Hammerspoon. (Lua)
-- [Moonstone](https://github.com/Sweets/Moonstone) - Manual tiling window manager for MacOS .(objective-c)
-- [penc](https://github.com/dgurkaynak/Penc) - Trackpad-oriented window manager for macOS. (swift)
-- [phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript. (objective-c)
-- [x3](https://github.com/tmandry/x3) - A window manager for macOS. (swift)
-- [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning .(C)
-- [stackline](https://github.com/AdamWagner/stackline) - [NOT A WM] Visualize yabai window stacks on macOS. Works with yabai & hammerspoon. (lua)
-- [zwm](https://github.com/z3t0/zwm) - macOS window manager running on Hammerspoon. (lua)
-
-#### Windows
-
-- [Amethystwindows](https://github.com/glsorre/amethystwindows) - Automatic tiling window manager for Windows 10. (C#)
-- [Hastwm](https://github.com/ZaneA/HashTWM) - An automatic Tiling Window Manager for the Windows OS. (C)
-- [MyWinTiles](https://github.com/CSaratakij/MyWinTiles) - Tiling window manager for Windows 10, Built on top of explorer shell. (C++)
-- [dwm-win32](https://github.com/martanne/dwm-win32)- dwm ported for windows. (C)
-- [grout](https://github.com/tarkah/grout) - Simple tiling window manager for Windows. (rust)
-- [i10](https://github.com/Shfty/i10) - An i3-inspired tiling window manager for Windows 10. (AutoHotkey)
-- [nog](https://github.com/TimUntersberger/nog) - Tiling window manager. (rust)
-- [win3wm](https://github.com/McYoloSwagHam/win3wm) - A Tiling Window Manager for windows 10, Inspired by i3wm. (C++)
-- [windows-tiling-window-manager](https://github.com/math0ne/windows-tiling-window-manager) - A very simple tiling window manager for Windows 7 - 10. (AutoHotkey) -[bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows. (AutoHotkey)
-- [workspaceer](https://github.com/rickbutton/workspacer) - a tiling window manager for Windows . (C#)
-- [yattal](https://github.com/LGUG2Z/yatta) - A tiling window manager for Windows 10 based on binary space partitioning . (rust)
-
 #### Other
 
 - [vioarr](https://github.com/Meulengracht/vioarr) - pen source, cross-platform window manager. Default window manager for Vali/MollenOS. (C)
@@ -203,87 +162,58 @@
 
 ### Terminals
 
-#### Cross Platform
-
 - [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator. (rust)
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display. (qml)
 - [CRTerm](https://github.com/bolner/CRTerm) - CRT Terminal emulator (OpenGL). (java)
 - [Contour](https://github.com/christianparpart/contour) - Modern C++ Terminal Emulator. (C++)
-- [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. (typescript)
-- [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. (javascript)
-- [Kitty](https://github.com/kovidgoyal/kitty) - The fast, featureful, GPU based terminal emulator. (c, python)
-- [Flterm](https://github.com/yongchaofan/FLTerm) - fast light terminal emulator. (C++)
-- [Jediterm](https://github.com/JetBrains/jediterm) - Pure Java Terminal Emulator. Works with SSH and PTY. (java)
-- [Lxterminal](https://github.com/lxde/lxterminal) - VTE terminal emulator written in GTK. (c)
-- [lite](https://github.com/TerminalStudio/lite) - terminal written in dart. (dart)
-- [Lilt](https://github.com/MurphyMc/lilt) - a simple and portable terminal emulator. (c)
-- [notty](https://github.com/withoutboats/notty) virtual terminal like xterm, gnome-vte,rxvt. (rust)
-- [qterminal](https://github.com/lxqt/qterminal) lightweight Qt terminal emulator based on QTermWidget. (c++)
-- [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age. (typescript)
-- [Termit](https://github.com/nonstop/termit) terminal emulator based on VTE library with Lua scripting. (c)
-- [Termkit](https://github.com/unconed/TermKit) - Experimental Terminal platform built on WebKit + node.js that aims to construct aspects of the GUI . (javascript)
-- [Termonad](https://github.com/cdepillabout/termonad) - Terminal emulator configurable in Haskell. (Haskell)
-- [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century. (typescript)
-- [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer. (Rust)
-- [xtermSharp](https://github.com/migueldeicaza/XtermSharp) - XTerm emulator as a .NET library . (C#)
-- [xterm.dart](https://github.com/TerminalStudio/xterm.dart) - xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms. (dart)
-
-#### Linux
-
-- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display. (qml)
 - [darktile](https://github.com/liamg/darktile) - a GPU rendered terminal emulator designed for tiling window managers. (go)
 - [deepin-terminal](https://github.com/linuxdeepin/deepin-terminal) - Terminal for deepin DE. (C++)
 - [eterm](https://github.com/mej/Eterm) - Eterm terminal emulator , made as a replacement for xterm. (C)
+- [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. (typescript)
+- [Flterm](https://github.com/yongchaofan/FLTerm) - fast light terminal emulator. (C++)
 - [finalterm](https://github.com/p-e-w/finalterm) - At last – a modern terminal emulator. (vala)
 - [Guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME. (python)
+- [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. (javascript)
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment. (c++)
+- [Kitty](https://github.com/kovidgoyal/kitty) - The fast, featureful, GPU based terminal emulator. (c, python)
 - [Lilyterm](https://github.com/Tetralet/LilyTerm) - A lightweight, but functional terminal emulator. (C)
+- [Lilt](https://github.com/MurphyMc/lilt) - a simple and portable terminal emulator. (c)
+- [lite](https://github.com/TerminalStudio/lite) - terminal written in dart. (dart)
 - [lwt](https://github.com/mewkiz/lwt) - lightweight terminal emulator based on the VTE and GTK libraries. (C)
+- [Lxterminal](https://github.com/lxde/lxterminal) - VTE terminal emulator written in GTK. (c)
 - [KMSCON](https://github.com/dvdhrm/kmscon) - Linux KMS/DRM based virtual Console Emulator. (C)
 - [moonterm](https://github.com/sodomon2/moonterm) - A minimalist and customizable terminal in lua. (lua)
+- [notty](https://github.com/withoutboats/notty) virtual terminal like xterm, gnome-vte,rxvt. (rust)
 - [Pantheon](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS. (vala)
 - [pyxterm](https://github.com/mitotic/pyxterm) - a terminal written in javaScript with a python backend. (javascript)
+- [qterminal](https://github.com/lxqt/qterminal) lightweight Qt terminal emulator based on QTermWidget. (c++)
 - [quickterminal](https://github.com/trollixx/quickterminal) - Lightweight terminal emulator. (C++)
 - [Roxterm](http://roxterm.sourceforge.net/) - ROXTerm is a terminal emulator intended to provide similar features to gnome-terminal. (c)
 - [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator rxvt. (c)
 - [st](https://st.suckless.org/) - st is a simple terminal implementation for X. (c)
 - [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator. (c)
+- [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age. (typescript)
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries. (c)
 - [Termite](https://github.com/thestinger/termite/) - A keyboard-centric VTE-based terminal. (c++)
+- [Termit](https://github.com/nonstop/termit) terminal emulator based on VTE library with Lua scripting. (c)
+- [Termkit](https://github.com/unconed/TermKit) - Experimental Terminal platform built on WebKit + node.js that aims to construct aspects of the GUI . (javascript)
+- [Termonad](https://github.com/cdepillabout/termonad) - Terminal emulator configurable in Haskell. (Haskell)
 - [Tilix](https://gnunn1.github.io/tilix-web/) - A keyboard-centric VTE-based terminal. (d)
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix. (c)
 - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - Terminal with the ability to create multiple terminals in one window and faster your work progress. (java)
 - [Tym](https://github.com/endaaman/tym) - Lua-configurable terminal emulator. (C)
+- [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century. (typescript)
 - [uterm](https://github.com/refi64/uterm) - A WIP terminal emulator, written in C++11 using Skia, libtsm, and GLFW. (C)
 - [viter](https://github.com/Kharacternyk/viter) - A Vim-ish terminal emulator written and expandable in Python. (python)
 - [wterm](https://sourceforge.net/projects/wterm/) - another light weight color terminal emulator based on rxvt project. (C)
+- [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer. (Rust)
 - [xfce4-terminal](https://github.com/xfce-mirror/xfce4-terminal) - Xfce Terminal is a lightweight and easy to use terminal emulator with advanced features (c)
 - [Xiate](https://www.uninformativ.de/git/xiate/file/README.html) lightweight VTE-based terminal. (c)
 - [Xterm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System. (c)
+- [xtermSharp](https://github.com/migueldeicaza/XtermSharp) - XTerm emulator as a .NET library . (C#)
+- [xterm.dart](https://github.com/TerminalStudio/xterm.dart) - xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms. (dart)
 - [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology. (c++)
 - [yat](https://github.com/jorgen/yat) - Terminal Emulator written in C++ and qml. (C++)
-
-#### MacOS
-
-- [Cathod](http://www.secretgeometry.com/apps/cathode/) - Cathode is a fully customizable terminal app with a look inspired by classic computers. (closed-source)
-- [dm270](https://github.com/dmolony/dm3270) - tn3270 Terminal Emulator. (java)
-- [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. (objective-c)
-- [Macterm](https://www.macterm.net/) - Powerful replacement for macOS Terminal. (python)
-- [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - VT100/Xterm Terminal emulator in Swift. (swift)
-- [Total Terminal](https://totalterminal.binaryage.com/) - a system-wide terminal available on a hot-key (objective-c, closed-source)
-- [Tinyterm](https://github.com/yongchaofan/tinyTerm) - simple, small and scriptable terminal emulator. (c)
-- [Zoc terminal](https://www.emtec.com/zoc/) - SSH Client and Terminal Emulator for Windows and macOS. (closed-source)
-
-#### Windows
-
-- [Babun](http://babun.github.io/) - A Windows shell you will love. (shell)
-- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more. (c++)
-- [Console](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience. (c++)
-- [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows. (c++)
-- [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies. [C#]
-- [Mintty](https://mintty.github.io/) - Mintty is a terminal emulator for Cygwin, MSYS or Msys2, and derived projects, and for WSL. (c)
-- [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
-  (closed-source)
-- [Windows-Terminal](https://github.com/microsoft/terminal) - Official windows terminal by microsoft. (C++)
 
 #### Other
 
