@@ -156,7 +156,7 @@
 
 #### Other
 
-- [vioarr](https://github.com/Meulengracht/vioarr) - pen source, cross-platform window manager. Default window manager for Vali/MollenOS. (C)
+- [vioarr](https://github.com/Meulengracht/vioarr) - Open source, cross-platform window manager. Default window manager for Vali/MollenOS. (C)
 
 ---
 
