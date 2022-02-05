@@ -558,6 +558,7 @@
 - [silver](https://github.com/reujab/silver) - A cross-shell customizable powerline-like prompt with icons. (rust)
 - [shellby](https://github.com/athul/shelby) - Shelby is a fast zap , lightweight ,minimal shell prompt. (go)
 - [Spaceship](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts
+- [Starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! 
 - [Synth-shell](https://github.com/andresgongora/synth-shell) - improves your terminal experience and productivity through a combination of small bash scripts
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
 - [wish](https://gitlab.com/ceda_ei/wish) - A customizable, extensible, themable bash prompt
