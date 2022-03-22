@@ -411,6 +411,7 @@
 - [nerdfetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX nix fetch script using Nerdfonts. (shell)
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal. (rust)
 - [paleofetch](https://github.com/ss7m/paleofetch) - neofetch, but written in (C).
+- [pepefetch](https://github.com/Sigmw/pepefetch) - The pepe frog fetch. (rust)
 - [perlfetch](https://github.com/Phate6660/perlfetch) - Think neofetch but in (perl)
 - [phpfetch](https://github.com/Phate6660/phpfetch) - An info fetch tool written in PHP. Because why not. /shrug
 - [pokefetch](https://github.com/rmccorm4/Pokefetch) - Command-line tool similar to neofetch for looking up pokemon in terminal. (python)
