@@ -590,6 +590,7 @@
 - [xwallpaper](https://github.com/stoeckmann/xwallpaper) - wallpaper setting utility for X . (C)
 - [xwinwrapl](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background. (C)
 - [wallpaper-generator](https://github.com/timozattol/wallpaper-generator) - A simple wallpaper generator. (python)
+- [wallset](https://github.com/terroo/wallset) - A wallpaper manager that makes it possible to put videos as wallpaper. (shell)
 - [wallsetter](https://github.com/Creator54/wallsetter) - A live wallpaper setter for linux. (shell)
 
 ### resources (websites)
