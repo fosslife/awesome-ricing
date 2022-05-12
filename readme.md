@@ -435,6 +435,7 @@
 - [wfetch](https://github.com/freddie-nelson/wfetch) - A neofetch like cli tool for windows. (go)
 - [yafetch](https://github.com/yrwq/yafetch) - yet another shell. (C)
 - [yayfetch](https://github.com/golota60/yayfetch) - Multi-platform screenfetch. (typescript)
+- [skyfetch](https://github.com/justleoo/skyfetch) - Simple system fetch information. (rust)
 
 #### RSS/Atom Feed Readers
 
