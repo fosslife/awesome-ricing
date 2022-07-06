@@ -120,6 +120,7 @@
 - [openbox](https://github.com/danakj/openbox) - Highly configurable, next generation window manager with extensive standards support. (C)
 - [pawm](https://sites.google.com/site/pleyadestest/david/projects/pawm) - a minimalistic window manager for the X Window System. (C)
 - [pekwm](https://github.com/pekdon/pekwm) - X11 window manager .(C++)
+- [starwm](https://github.com/StarWM/StarWM) - an extensible, floating and tiling, X window manager for linux (rust)
 - [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!) .(C)
 - [tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager. (C)
 - [twm](https://github.com/freedesktop/twm) - Timeless Windows Manager . (C)
