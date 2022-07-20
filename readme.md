@@ -130,7 +130,7 @@
 - [windowlab](https://github.com/nickgravgaard/windowlab) - A small and simple window manager of novel design . (C)
 - [windowmaker](http://www.windowmaker.org/) - X11 window manager originally designed to provide integration support for the GNUstep Desktop Environment . (C)
 - [vswm](https://github.com/fehawen/vswm) - A very stupid window manager. (C)
-- [worm](https://github.com/codic12/worm) A floating, tag-based window manager. (rust)
+- [worm](https://github.com/codic12/worm) A floating, tag-based window manager. (nim)
 - [wm2](https://www.all-day-breakfast.com/wm2/) - a window manager for X. (C)
 - [xfwm3](https://gitlab.xfce.org/xfce/xfwm4) - xfce's window manager. (C)
 - [xwm](https://github.com/mcpcpc/xwm) - A tiny XCB floating window manager. (C)
