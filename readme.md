@@ -15,6 +15,7 @@
       - [Tiling wms](#tiling-wms)
       - [Stacking and floating wms](#stacking-and-floating-wms)
       - [Dynamic tiling wms](#dynamic-tiling-wms)
+  - [Show off scripts](#show-off-scripts)
   - [Terminals](#terminals)
     - [Other](#other)
   - [Bars and Panels](#bars-and-panels)
@@ -158,6 +159,15 @@
 #### Other
 
 - [vioarr](https://github.com/Meulengracht/vioarr) - Open source, cross-platform window manager. Default window manager for Vali/MollenOS. (C)
+
+---
+
+### Show off scripts
+
+- [cmatrix](https://github.com/abishekvashok/cmatrix) - Simple terminal matrix implementation. (C)
+- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Script which generates animated colorful pipes. (shell)
+- [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Tree growing animation with your own text. (C)
+- [tty-clock](https://github.com/xorg62/tty-clock) - Customizable clock in terminal. (C)
 
 ---
 
