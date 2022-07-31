@@ -226,6 +226,7 @@
 - [xterm.dart](https://github.com/TerminalStudio/xterm.dart) - xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms. (dart)
 - [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology. (c++)
 - [yat](https://github.com/jorgen/yat) - Terminal Emulator written in C++ and qml. (C++)
+- [foot](https://codeberg.org/dnkl/foot) - A fast, lightweight and minimalistic Wayland terminal emulator. (C)
 
 #### Other
 
