@@ -58,6 +58,7 @@
 - [coma](https://github.com/jorisvink/coma) - My minimalistic X11 window manager. (C)
 - [darwintiler](https://github.com/veryjos/darwintiler) - No frills, super easy tiling "window manager" for MacOS and x11/Linux. (C, Nim)
 - [echinus](https://github.com/polachok/echinus) - a lightweight and easily configurable tiling window manager .(C)
+- [endlesswm](https://github.com/peterfajdiga/EndlessWM) - A proof of concept of a scrolling window manager. (C)
 - [exwm](https://github.com/ch11ng/exwm) - Emacs X window manager. (Emacs Lisp)
 - [fpwm](https://github.com/sduverger/fpwm) - python tiling window manager .(python)
 - [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11. (C++,python)
@@ -82,7 +83,6 @@
 - [wmderland](https://github.com/aesophor/wmderland) - X11 tiling window manager using space partitioning trees .(C++)
 - [wmii](https://github.com/0intro/wmii) - A small, scriptable window manager, with a 9P filesystem interface and an acme-like layout. (C)
 - [xoat](https://github.com/seanpringle/xoat) - An obstinate, asymmetric, tiling, window manager for X. (C)
-- [kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor. (C)
 
 ##### Stacking and floating wms
 
