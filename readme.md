@@ -83,6 +83,7 @@
 - [wmderland](https://github.com/aesophor/wmderland) - X11 tiling window manager using space partitioning trees .(C++)
 - [wmii](https://github.com/0intro/wmii) - A small, scriptable window manager, with a 9P filesystem interface and an acme-like layout. (C)
 - [xoat](https://github.com/seanpringle/xoat) - An obstinate, asymmetric, tiling, window manager for X. (C)
+- [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning. (C)
 
 ##### Stacking and floating wms
 
