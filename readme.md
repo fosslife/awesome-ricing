@@ -15,6 +15,7 @@
       - [Tiling wms](#tiling-wms)
       - [Stacking and floating wms](#stacking-and-floating-wms)
       - [Dynamic tiling wms](#dynamic-tiling-wms)
+      - [MacOS wms](#macos-wms)
   - [Show off scripts](#show-off-scripts)
   - [Terminals](#terminals)
     - [Other](#other)
@@ -155,7 +156,12 @@
 - [velox](https://github.com/michaelforney/velox) - Window manager inspired by dwm and xmonad. (C)
 - [wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager. (go)
 - [wzrd](https://github.com/deurzen/wzrd) - An ICCCM & EWMH compliant X11 reparenting, dynamic window manager. (rust)
-- [xmonad](https://github.com/xmonad/xmonad) - a small but functional ICCCM-compliant tiling window manager . (Haskell)
+- [xmonad](https://github.com/xmonad/xmonad) - a small but functional ICCCM-compliant tiling window manager . (Haskell)  
+
+##### MacOS wms
+
+- [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning. (C)
+- [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (Swift)
 
 #### Other
 
