@@ -404,6 +404,7 @@
 - [gf](https://github.com/Smirnov-O/gf) - Go Fetch - small fetch written on Golang. (go)
 - [Hilbifetch](https://github.com/Hilbis/Hilbifetch) - Simple and small fetch. (lua)
 - [Hyperfetch](https://github.com/ralseiii/hyperfetch) - a multi-threaded system information tool written in posix sh. (shell)
+- [hfetch](https://github.com/gentoo-btw/hfetch) - yet another fetch written in bash. with fortune. (shell)
 - [Kat-OH](https://github.com/70xH/Kat-OH) - A huge fetch. (go)
 - [lfetch](https://github.com/TheUpBeat/lfetch) - Yet another fetch program. (C)
 - [fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux. (c)
