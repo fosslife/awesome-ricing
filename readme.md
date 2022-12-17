@@ -389,7 +389,7 @@
 - [bitfetch](https://gitlab.com/bit9tream/bitfetch) - simple cli system information tool . (C)
 - [boxfetch.py](https://github.com/Endlassy/boxfetch.py) - Minimal Fetch in a Box. (python)
 - [bunnfetch](https://github.com/elenapan/dotfiles/blob/master/bin/bunnyfetch) - tiny fetch. (shell)
-- [bunny](https://github.com/Luvella/Bunnyfetch) - Tiny system info fetch utility. (rust)
+- [bunny](https://github.com/Rosettea/bunnyfetch) - Tiny system info fetch utility. (go)
 - [bugfetch](https://github.com/RustemB/bugfetch) - System Information Fetcher. (raku)
 - [cinfo](https://github.com/mrdotx/cinfo) - a fast and minimal system information tool for linux-based operating systems. (C)
 - [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux. (shell)
