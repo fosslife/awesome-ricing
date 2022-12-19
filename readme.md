@@ -455,6 +455,9 @@
 - [yafetch](https://github.com/yrwq/yafetch) - yet another shell. (C)
 - [yayfetch](https://github.com/golota60/yayfetch) - Multi-platform screenfetch. (typescript)
 - [skyfetch](https://github.com/justleoo/skyfetch) - Simple system fetch information. (rust)
+- [bsdfetch](https://github.com/jhx0/bsdfetch) - A tool to show information about a running BSD system. (C)
+- [bsdfetch-sh](https://github.com/rilysh/bsdfetch-sh) - Shell script version of original bsdfetch. (shell)
+- [cafe](https://github.com/rilysh/cafe) - A simple catfetch script. (shell)
 
 #### RSS/Atom Feed Readers
 
