@@ -382,9 +382,12 @@
 
 #### Fetches
 
+- [101fetch](https://github.com/salaaad2/101fetch) - Screenfetch but for 101 school. (shell)
 - [afetch](https://github.com/13-CF/afetch) - Simple system info . (C)
 - [afetch](https://github.com/sticky-tea/afetch) - A command-line system information tool. (assembly)
+- [archey4](https://github.com/HorlogeSkynet/archey4) - Simple system information tool written in Python (python)
 - [archfetch](https://github.com/xxczaki/archfetch) - Simple CLI system information tool for Arch Linux. (shell)
+- [archimede](https://github.com/gennaro-tedesco/archimede) - Unobtrusive project information fetcher. (go)
 - [bfetch](https://github.com/NNBnh/bfetch) - Dynamic fetch displayer that SuperB. (shell)
 - [bitfetch](https://gitlab.com/bit9tream/bitfetch) - simple cli system information tool . (C)
 - [boxfetch.py](https://github.com/Endlassy/boxfetch.py) - Minimal Fetch in a Box. (python)
@@ -397,6 +400,8 @@
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool. (C)
 - [crfetch](https://github.com/Phate6660/crfetch) - A WIP neofetch-like program. (cyrstal)
 - [disfetch](https://github.com/q60/disfetch) - Yet another \*nix distro fetching program, but less complex. (shell)
+- [diyfetch](https://github.com/info-mono/diyfetch) - The ultimate fetch tool template. (shell)
+- [efetch](https://github.com/NoSequel/efetch) - No description. (c)
 - [elefetch](https://github.com/burntcarrot/elefetch) - Cross-platform alternative for neofetch. (go)
 - [erlfetch](https://github.com/vereis/erlfetch) - A screenfetch / neofetch clone written in Erlang/OTP. (erlang)
 - [gentoofetch](https://github.com/DmitryHetman/gentoofetch.sh) - System information script for Gentoo GNU/Linux. (shell)
@@ -415,17 +420,20 @@
 - [fetcheya](https://github.com/ferhatgec/fetcheya) - Fegeya Fetcheya is Scrift's System Information Tool. (C++)
 - [fetcher](https://github.com/ferhatgec/fetcher) - Fegeya Fetcher, pretty & cute system-information-tool. Written in FlaScript. (shell)
 - [fetch.scm](https://github.com/KikyTokamuro/fetch.scm) - System information fetcher written in GNU Guile (scheme)
+- [flexfetch](https://github.com/matyklug18/Flexfetch) - A fast and generic fetch. (c)
 - [freshfetch](https://github.com/K4rakara/freshfetch) - a fresh take on neofetch. (rust)
 - [frenzch.sh](https://github.com/FrenzyExists/frenzch.sh) - A cozy fetch
 - [fsi](https://github.com/MustafaSalih1993/fsi). FSI (Fetch System Info) cli tool. (rust)
 - [fsfetch](https://github.com/Phate6660/fsfetch) - A neofetch type program. (F#)
 - [jfetch](https://github.com/Jimmysit0/jfetch) - A minimal Linux fetch script. (shell)
+- [info.sh](https://github.com/jusdepatate/info.sh) - Info.sh is a little script that works like screenfetch or neofetch, it show infos. (shell)
 - [lovefetch](https://github.com/oppsec/lovefetch) - A CLI System Information Too. (Python)
 - [lunafetch](https://github.com/SugarBlank/LunaFetch) - Returns system information fast. (C++)
 - [luafetch](https://github.com/Phate6660/luafetch) - Info fetch program. (lua)
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher, with an emphasis on performance and minimalism. (rust)
 - [mafetch](https://github.com/fikriomar16/mafetch) - System info for Unix-like operating systems. (shell)
 - [mfetch](https://github.com/depsterr/mfetch) - minmal fetch. (shell)
+- [myfetch](https://github.com/Pippadi/myfetch) - My neofetch-like program. (shell)
 - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+ . (shell)
 - [nerdfetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX nix fetch script using Nerdfonts. (shell)
 - [nitch](https://github.com/unxsh/nitch) - Incredibly fast system fetch (nim)
@@ -456,9 +464,7 @@
 - [yafetch](https://github.com/yrwq/yafetch) - yet another shell. (C)
 - [yayfetch](https://github.com/golota60/yayfetch) - Multi-platform screenfetch. (typescript)
 - [skyfetch](https://github.com/justleoo/skyfetch) - Simple system fetch information. (rust)
-- [bsdfetch](https://github.com/jhx0/bsdfetch) - A tool to show information about a running BSD system. (C)
-- [bsdfetch-sh](https://github.com/rilysh/bsdfetch-sh) - Shell script version of original bsdfetch. (shell)
-- [cafe](https://github.com/rilysh/cafe) - A simple catfetch script. (shell)
+- [zeitfetch](https://github.com/nidnogg/zeitfetch) - Instantaneous sysinfo, compatible with Windows, Linux, BSD and Mac OS X. (rust)
 
 #### RSS/Atom Feed Readers
 
