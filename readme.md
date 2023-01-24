@@ -428,6 +428,7 @@
 - [mfetch](https://github.com/depsterr/mfetch) - minmal fetch. (shell)
 - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+ . (shell)
 - [nerdfetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX nix fetch script using Nerdfonts. (shell)
+- [nitch](https://github.com/unxsh/nitch) - Incredibly fast system fetch (nim)
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal. (rust)
 - [paleofetch](https://github.com/ss7m/paleofetch) - neofetch, but written in (C).
 - [pepefetch](https://github.com/Sigmw/pepefetch) - The pepe frog fetch. (rust)
