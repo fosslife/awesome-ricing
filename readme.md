@@ -385,6 +385,7 @@
 - [101fetch](https://github.com/salaaad2/101fetch) - Screenfetch but for 101 school. (shell)
 - [afetch](https://github.com/13-CF/afetch) - Simple system info . (C)
 - [afetch](https://github.com/sticky-tea/afetch) - A command-line system information tool. (assembly)
+- [akkufetch](https://github.com/mrHeavenli/akkufetch) - Neofetch for laptop batteries. (python)
 - [archey4](https://github.com/HorlogeSkynet/archey4) - Simple system information tool written in Python (python)
 - [archfetch](https://github.com/xxczaki/archfetch) - Simple CLI system information tool for Arch Linux. (shell)
 - [archimede](https://github.com/gennaro-tedesco/archimede) - Unobtrusive project information fetcher. (go)
