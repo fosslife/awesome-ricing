@@ -411,7 +411,7 @@
 - [Hilbifetch](https://github.com/Hilbis/Hilbifetch) - Simple and small fetch. (lua)
 - [Hyperfetch](https://github.com/ralseiii/hyperfetch) - a multi-threaded system information tool written in posix sh. (shell)
 - [Kat-OH](https://github.com/70xH/Kat-OH) - A huge fetch. (go)
-- [ramfetch](https://github.com/gentoo-btw/ramfetch) - a fetch which displays memory info using /proc/meminfo. (shell)
+- [ramfetch](https://codeberg.org/o69mar/ramfetch) - a fetch which displays memory info using /proc/meminfo. (shell)
 - [lfetch](https://github.com/TheUpBeat/lfetch) - Yet another fetch program. (C)
 - [fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux. (c)
 - [ferris-fetch](https://github.com/irevenko/ferris-fetch) - A system information tool for Rustaceans.(rust)
