@@ -330,6 +330,7 @@
 - [cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa. (C)
 - [catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows. (go)
 - [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer. (C++)
+- [octavia](https://github.com/octobanana/octavia) - Very configurable colored CLI visualizer. (C++) 
 - [ReVidia-Audio-Visualizer](https://github.com/GhostNaN/ReVidia-Audio-Visualizer) - A highly customizable real time audio visualizer on Linux/Windows. (python)
 - [xava](https://github.com/nikp123/xava) - X11 Audio Visualizer for ALSA. (C)
 
