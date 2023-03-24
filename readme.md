@@ -410,6 +410,7 @@
 - [ghfetch](https://github.com/bwac2517/ghfetch) - neofetch but for github. (typescript)
 - [gf](https://github.com/Smirnov-O/gf) - Go Fetch - small fetch written on Golang. (go)
 - [Hilbifetch](https://github.com/Hilbis/Hilbifetch) - Simple and small fetch. (lua)
+- [HyFetch](https://github.com/hykilpikonna/hyfetch) - A neofetch fork with pride flags, also includes an updated standard neofetch too. (shell, python)
 - [Hyperfetch](https://github.com/ralseiii/hyperfetch) - a multi-threaded system information tool written in posix sh. (shell)
 - [Kat-OH](https://github.com/70xH/Kat-OH) - A huge fetch. (go)
 - [ramfetch](https://codeberg.org/o69mar/ramfetch) - a fetch which displays memory info using /proc/meminfo. (shell)
