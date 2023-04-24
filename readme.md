@@ -296,7 +296,7 @@
 - [winbar](https://github.com/jmanc3/winbar) - A familiar X11 panel/dock to ease new linux users transitio. (C++)
 - [wingpanel](https://github.com/elementary/wingpanel) - Stylish top panel that holds indicators and spawns an application launcher. (vala)
 - [xfce4-panel](https://gitlab.xfce.org/xfce/xfce4-panel) - A panel made for xfce , should work on most stacking wms too. (C)
-- [xmobar](https://github.com/jaor/xmobar) - A minimalistic status bar. (Haskell)
+- [xmobar](https://codeberg.org/xmobar/xmobar) - A minimalistic status bar. (Haskell)
 - [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers. (C)
 - [yagostatus](https://github.com/burik666/yagostatus) - Yet Another i3status replacement. (go)
 - [yambar](https://codeberg.org/dnkl/yambar) - Modular status panel for X11 and Wayland, inspired by polybar. (C)
