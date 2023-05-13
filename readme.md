@@ -368,7 +368,6 @@
 - [dfm](https://github.com/cglindkamp/dfm) - Dynamic File Manager. (C)
 - [fff](https://github.com/dylanaraps/fff) - A simple file manager written in bash. (shell)
 - [fm](https://github.com/mreyoud/fm) - c99 ncurses file manager for posix. (C)
-- [hund](https://github.com/miahuoe/hund) - A minimalistic terminal file manager. (C)
 - [joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager. (rust)
 - [lf](https://github.com/gokcehan/lf) - Terminal file manager inspired by ranger. (go)
 - [mc](https://github.com/MidnightCommander/mc) - A free cross-platform orthodox file manager. (C)
