@@ -146,6 +146,7 @@
 - [chamferwm](https://github.com/jaelpark/chamferwm) - A tiling X11 window manager with Vulkan compositor. (C++)
 - [dwm](https://dwm.suckless.org/) - dynamic window manager. (C)
 - [frankenwm](https://github.com/sulami/FrankenWM) - Fast dynamic tiling X11 window manager. (C)
+- [Hyprland](https://github.com/hyprwm/Hyprland) - Dynamic tiling Wayland compositor based on wlroots that doesn't sacrifice on its looks. (C++)
 - [instantwm](https://github.com/instantOS/instantWM)- window manager for instantOS . (C)
 - [kranewm](https://github.com/deurzen/kranewm) - An ICCCM & EWMH compliant X11 reparenting, dynamic window manager. (C++)
 - [monsterwm](https://github.com/c00kiemon5ter/monsterwm) - tiny but monstrous tiling window manager. (C)
