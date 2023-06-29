@@ -19,7 +19,7 @@
   - [Show off scripts](#show-off-scripts)
   - [Terminals](#terminals)
     - [Other](#other)
-  - [Bars and Panels](#bars-and-panels)
+  - [Bars, Panels, and Widgets](#bars-panels-and-widgets)
   - [CLI Tools](#cli-tools)
     - [System Monitors](#system-monitors)
     - [audio visualizers](#audio-visualizers)
@@ -246,7 +246,7 @@
 
 ---
 
-### Bars and Panels
+### Bars, Panels, and Widgets
 
 [Courtesy = @siduck76]
 
@@ -257,6 +257,7 @@
 - [bmpanel](https://github.com/nsf/bmpanel) - lightweight, netwm compliant, x11 panel with desktop switcher, taskbar, systray and clock. (C)
 - [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - A modular, theme-able status line generator for the i3wm. (python)
 - [cnx](https://github.com/mjkillough/cnx) - A simple X11 status bar for use with simple WMs. (rust)
+- [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [dwmbar-powerline](https://github.com/Leomv55/dwmbar-powerline) - dwmbar with powerline look. (go)
 - [dwmbar](https://github.com/thytom/dwmbar) - A Modular Status Bar for dwm. (shell)
 - [dzenbar](https://github.com/qbbr/dzenbar) - dzen2 bar w multiple monitors support. (shell)
