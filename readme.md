@@ -218,7 +218,7 @@
 - [Termonad](https://github.com/cdepillabout/termonad) - Terminal emulator configurable in Haskell. (Haskell)
 - [Tilix](https://gnunn1.github.io/tilix-web/) - A keyboard-centric VTE-based terminal. (d)
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix. (c)
-- [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - Terminal with the ability to create multiple terminals in one window and faster your work progress. (java)
+- [Terminator](https://github.com/gnome-terminator/terminator) - Multiple GNOME terminals in one window. (python)
 - [Tym](https://github.com/endaaman/tym) - Lua-configurable terminal emulator. (C)
 - [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century. (typescript)
 - [uterm](https://github.com/refi64/uterm) - A WIP terminal emulator, written in C++11 using Skia, libtsm, and GLFW. (C)
