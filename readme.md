@@ -489,7 +489,7 @@
 - [Cbonsai](https://gitlab.com/jallbrit/cbonsai) - grow bonsai trees in your terminal. (C)
 - [Chalk-Animation](https://github.com/bokub/chalk-animation) - Colorful animations on terminal. (javascript)
 - [Console-Services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services.
-- [Exa](https://github.com/ogham/exa) - A modern replacement for 'ls' with icons and colors. (Rust)
+- [Eza](https://github.com/eza-community/eza) - A modern replacement for 'ls' with icons and colors. (Rust)
 - [genact](https://github.com/svenstaro/genact) - A nonsense activity generator. (Rust)
 - [Lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns. (ruby)
 - [mpv](https://github.com/mpv-player/mpv) - Command Line Media Player
