@@ -99,7 +99,7 @@
 - [cswm](https://github.com/ajnewlands/cswm) - A simple X11 window manager. (C#)
 - [cwm](https://github.com/leahneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager (C)
 - [eggwm](https://code.google.com/archive/p/eggwm) - A lightweight QT4/QT5 window manager. (C++)
-- [evilwm](https://github.com/nikolas/evilwm) - A really great window manager that's usable without writing a 20 line configuration file. (C)
+- [evilwm](https://www.6809.org.uk/evilwm) - A really great window manager that's usable without writing a 20 line configuration file. (C)
 - [footwm-chez](https://github.com/akce/footwm-chez) - Implementation of footwm in chez scheme. (scheme)
 - [fluxbox](https://github.com/fluxbox/fluxbox) - a windowmanager for X that was based on the Blackbox. (C++)
 - [flwm](https://github.com/bbidulock/flwm) - fast light window manager. (C)
