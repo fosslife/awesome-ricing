@@ -410,6 +410,7 @@
 - [cppfetch](https://github.com/Phate6660/cppfetch) - A neofetch-esque program written in CPP. (C++)
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool. (C)
 - [crfetch](https://github.com/Phate6660/crfetch) - A WIP neofetch-like program. (cyrstal)
+- [cutefetch](https://github.com/cybardev/cutefetch) - Tiny coloured fetch script with cute little animals (shell)
 - [disfetch](https://github.com/q60/disfetch) - Yet another \*nix distro fetching program, but less complex. (shell)
 - [diyfetch](https://github.com/info-mono/diyfetch) - The ultimate fetch tool template. (shell)
 - [efetch](https://github.com/NoSequel/efetch) - No description. (c)
