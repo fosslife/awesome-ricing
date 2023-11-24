@@ -515,6 +515,7 @@
 - [base16-builder](https://github.com/base16-builder/base16-builder) - nimble command-line tool that generates themes for your favourite programs.
 - [base16 family](https://github.com/chriskempson/base16) - a collection of multiple color-schemes.
 - [bash-full-of-colors](https://github.com/slomkowski/bash-full-of-colors) - Advanced .bashrc and .bash_profile coming together with colorful output
+- [Catppuccin](https://github.com/catppuccin/catppuccin) - Soothing pastel theme for the high-spirited! 
 - [Dracula](https://github.com/dracula/dracula-theme) - A Dark theme for all the things!.
 - [everforest](https://github.com/sainnhe/everforest) - Comfortable & Pleasant Color Scheme.
 - [Flatui](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - Flat UI colors for Terminal and iTerm.
