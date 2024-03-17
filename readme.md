@@ -38,7 +38,6 @@
   - [Background setting utilities and generators](#background-setting-utilities-and-generators)
   - [resources (websites)](#resources-websites)
   - [Other](#other-1)
-- [Themes](#themes)
 - [Communities](#communities)
   - [Reddit](#reddit)
 - [TODO:](#todo)
@@ -647,21 +646,6 @@
 
 - [ArchWiki](https://wiki.archlinux.org/) - The Bible of linux configuration/resources.
 - [Guide to Switching to Ubuntu on Reddit](https://www.reddit.com/r/linux4noobs/comments/ejsz3v/still_on_windows_7_dont_want_windows_10_consider/) - A Beginner-frendly guide on how to switch to Ubuntu as a Daily Driver.
-
-## Themes
-
-### Bars and Panels
-
-- conky
-  - [Chepeus](https://github.com/closebox73/Chepeus)
-  - [Draco](https://github.com/closebox73/Draco)
-  - [Eridanus](https://github.com/closebox73/Eridanus)
-  - [Leonis](https://github.com/closebox73/Leonis)
-  - [Orion](https://github.com/closebox73/Orion)
-  - [Scorpio](https://github.com/closebox73/Scorpio)
-  - [Star Graves](https://github.com/closebox73/Star_Graves)
-  - [Taurus](https://github.com/closebox73/Taurus)
-  - [UrsaMajor](https://github.com/closebox73/UrsaMajor)
 
 ## Communities
 
