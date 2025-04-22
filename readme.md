@@ -461,6 +461,7 @@
 - [pokefetch](https://github.com/rmccorm4/Pokefetch) - Command-line tool similar to neofetch for looking up pokemon in terminal. (python)
 - [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh. (shell)
 - [profetch](https://github.com/RustemB/profetch) - System Information Fetcher Written in GNU/Prolog. (Prolog)
+- [qfetch](https://github.com/qvipin/qfetch) - A visually appealing system information fetcher tailored for macOS and Debian/Ubuntu. (Python)
 - [rktfetch](https://github.com/mythical-linux/rktfetch) - System fetch program. (racket)
 - [rsfetch](https://github.com/rsfetch/rsfetch) - Fast (~1ms execution time) and somewhat(?) minimal fetch program. (rust)
 - [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch. (rust)
