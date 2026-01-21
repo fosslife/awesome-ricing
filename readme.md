@@ -386,6 +386,7 @@
 - [sheeetfm](https://github.com/sug0/sheeetfm) - A sheeet file manager for sheeet computers. (C)
 - [vifm](https://github.com/vifm/vifm) - Terminal file manager. (C)
 - [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer. (Rust)
+- [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O. (Rust)
 
 #### Weather Tools
 
