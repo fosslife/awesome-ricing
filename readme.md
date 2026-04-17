@@ -158,7 +158,7 @@
 - [velox](https://github.com/michaelforney/velox) - Window manager inspired by dwm and xmonad. (C)
 - [wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager. (go)
 - [wzrd](https://github.com/deurzen/wzrd) - An ICCCM & EWMH compliant X11 reparenting, dynamic window manager. (rust)
-- [xmonad](https://github.com/xmonad/xmonad) - a small but functional ICCCM-compliant tiling window manager . (Haskell)  
+- [xmonad](https://github.com/xmonad/xmonad) - a small but functional ICCCM-compliant tiling window manager . (Haskell)
 
 ##### MacOS wms
 
@@ -344,7 +344,7 @@
 - [cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa. (C)
 - [catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows. (go)
 - [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer. (C++)
-- [octavia](https://github.com/octobanana/octavia) - Very configurable colored CLI visualizer. (C++) 
+- [octavia](https://github.com/octobanana/octavia) - Very configurable colored CLI visualizer. (C++)
 - [ReVidia-Audio-Visualizer](https://github.com/GhostNaN/ReVidia-Audio-Visualizer) - A highly customizable real time audio visualizer on Linux/Windows. (python)
 - [xava](https://github.com/nikp123/xava) - X11 Audio Visualizer for ALSA. (C)
 
@@ -495,6 +495,7 @@
 - [Chalk-Animation](https://github.com/bokub/chalk-animation) - Colorful animations on terminal. (javascript)
 - [Console-Services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services.
 - [Eza](https://github.com/eza-community/eza) - A modern replacement for 'ls' with icons and colors. (Rust)
+- [fum](https://github.com/qxb3/fum) - A fully ricable tui-based mpris music client. (Rust)
 - [genact](https://github.com/svenstaro/genact) - A nonsense activity generator. (Rust)
 - [Lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns. (ruby)
 - [mpv](https://github.com/mpv-player/mpv) - Command Line Media Player
@@ -519,7 +520,7 @@
 - [base16-builder](https://github.com/base16-builder/base16-builder) - nimble command-line tool that generates themes for your favourite programs.
 - [base16 family](https://github.com/chriskempson/base16) - a collection of multiple color-schemes.
 - [bash-full-of-colors](https://github.com/slomkowski/bash-full-of-colors) - Advanced .bashrc and .bash_profile coming together with colorful output
-- [Catppuccin](https://github.com/catppuccin/catppuccin) - Soothing pastel theme for the high-spirited! 
+- [Catppuccin](https://github.com/catppuccin/catppuccin) - Soothing pastel theme for the high-spirited!
 - [Dracula](https://github.com/dracula/dracula-theme) - A Dark theme for all the things!.
 - [everforest](https://github.com/sainnhe/everforest) - Comfortable & Pleasant Color Scheme.
 - [Flatui](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - Flat UI colors for Terminal and iTerm.
@@ -607,7 +608,7 @@
 - [silver](https://github.com/reujab/silver) - A cross-shell customizable powerline-like prompt with icons. (rust)
 - [shellby](https://github.com/athul/shelby) - Shelby is a fast zap , lightweight ,minimal shell prompt. (go)
 - [Spaceship](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts
-- [Starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell! 
+- [Starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [Synth-shell](https://github.com/andresgongora/synth-shell) - improves your terminal experience and productivity through a combination of small bash scripts
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
 - [wish](https://gitlab.com/ceda_ei/wish) - A customizable, extensible, themable bash prompt
