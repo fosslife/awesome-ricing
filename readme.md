@@ -164,6 +164,8 @@
 
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning. (C)
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (Swift)
+- [Aerospace](https://github.com/nikitabobko/AeroSpace) - i3-like tiling window manager for macOS
+
 
 #### Other
 
