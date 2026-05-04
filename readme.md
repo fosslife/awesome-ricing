@@ -537,6 +537,7 @@
 
 - [oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a Materia and Oomox themes (GTK2, GTK3 and others). (python)
 - [Paletty](https://paletty.dev) - Terminal color scheme generator and theme gallery. Generate from scratch, extract from image, or browse community themes. Exports to Ghostty, Alacritty, Kitty, WezTerm, iTerm2, and more.
+- [tinct](https://github.com/jmylchreest/tinct) - Plugin-based theme/templating tool inspired by Pywal and Matugen, with multiple input mechanisms (wallpaper, hex codes, image URLs, time-of-day). (go)
 - [wpgtk](https://github.com/deviantfero/wpgtk) - a colorscheme, wallpaper and template manager for \*nix. (python)
 
 ---
