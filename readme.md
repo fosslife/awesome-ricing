@@ -182,6 +182,7 @@
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Script which generates animated colorful pipes. (shell)
 - [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Tree growing animation with your own text. (C)
 - [tty-clock](https://github.com/xorg62/tty-clock) - Customizable clock in terminal. (C)
+- [parallel-harness-pets](https://github.com/TevvvB/parallel-harness-pets) - A creature per coding-agent session, with rarity bands to collect. (Go)
 
 ---
 
