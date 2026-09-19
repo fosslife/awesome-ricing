@@ -259,6 +259,7 @@
 
 [Courtesy = @siduck76]
 
+- [ApolloShell](https://github.com/Silvertree2010/ApolloShell) - Caelestia-inspired desktop shell for macOS with a sidebar, dock, launcher and dashboard, themed with a single CSS file. (swift)
 - [barmaid.lua](https://github.com/ColumPaget/barmaid.lua) - A status-bar generation program for dzen2, lemonbar, or the terminal. (lua)
 - [barr](https://github.com/OkayDave/barr) - Barr is a status line style generator for LemonBar. (ruby)
 - [bevelbar](https://www.uninformativ.de/git/bevelbar/file/README.html) - Draw an X11 status bar with fancy schmancy 1985-ish beveled borders. (C)
