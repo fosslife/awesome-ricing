@@ -183,6 +183,7 @@
 - [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Tree growing animation with your own text. (C)
 - [tty-clock](https://github.com/xorg62/tty-clock) - Customizable clock in terminal. (C)
 - [termagitchi](https://github.com/TevvvB/termagitchi) - A creature per coding-agent session, with rarity bands to collect. (Go)
+- [cbirds](https://github.com/clainstone/cbirds) - Boids flocking simulation with hawks, braille anywhere, sprites in Kitty and Ghostty. (C)
 
 ---
 
