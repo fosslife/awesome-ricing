@@ -320,6 +320,7 @@
 
 #### System Monitors
 
+- [Aero Linux Suite](https://github.com/ronitgupta138/aero-linux) - Ultra-lean Linux desktop systems suite and real-time zRAM / system monitors idling <350MB. (python/GTK3/shell)
 - [Atop](https://github.com/Atoptool/atop) - System and process monitor for Linux. (C)
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor (bash)
 - [btop](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor (C++)
