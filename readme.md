@@ -305,6 +305,7 @@
 - [unixbar](https://github.com/unrelentingtech/unixbar) - Rust library for creating output for UNIX-style desktop bars like i3bar/swaybar, dzen2, lemonbar. (rust)
 - [vala-panel](https://gitlab.com/vala-panel-project/vala-panel) - Vala rewrite of SimplePanel. (C)
 - [vbar](https://github.com/AndrewVos/vbar) - A lightweight bar written .(go)
+- [Velora Desktop](https://github.com/Anuppaul/velora-desktop) - GNOME Shell 50 Liquid Glass extension that enhances native Shell surfaces and adds a radial launcher and Spotlight-style app search. (JavaScript)
 - [waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. (C++)
 - [winbar](https://github.com/jmanc3/winbar) - A familiar X11 panel/dock to ease new linux users transitio. (C++)
 - [wingpanel](https://github.com/elementary/wingpanel) - Stylish top panel that holds indicators and spawns an application launcher. (vala)
