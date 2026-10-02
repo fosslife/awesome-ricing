@@ -476,6 +476,7 @@
 - [rxfetch](https://github.com/Mangeshrex/rfetch) - minimal and pretty fetch. (shell)
 - [sfetch](https://github.com/HenryDawson123/sfetch) - A simple fetch program. (C++)
 - [sheen](https://github.com/digitalsurvival/sheen) - Cross-platform desktop screenshot boasting tool (neo/screenFetch reimplemented). (python)
+- [sparklebios](https://github.com/reactivepixels/sparklebios) - Retro 1995 PC BIOS boot screen with real system facts on every new terminal tab, plus a neofetch-style fetch screen with pixel mascots. (rust)
 - [sysfetch](https://github.com/mebesus/sysfex) - Another system information tool. (C++)
 - [tuatara](https://github.com/q60/tuatara) - Ziggidy nix system info fetcher. (zig)
 - [tfetch](https://github.com/Endlassy/tfetch) - Tree view like fetch. (python)
