@@ -627,6 +627,7 @@
 
 ### Background setting utilities and generators
 
+- [asciipaper](https://github.com/cYoren/asciipaper) - Live, mouse-interactive ASCII wallpapers for Wayland (Hyprland, Sway, niri, KDE) on a native GPU engine, with 38 styles and porting of any picture, GIF or video. (c, python)
 - [auto_background_changer](https://github.com/AlvinJian/auto_background_changer) - A simple wallpaper changer supporting various desktop environments and window managers for Linux. (python)
 - [azote](https://github.com/nwg-piotr/azote) - Wallpaper and colour manager for Sway, i3 and some other WMs. (python)
 - [BashDynamicPaper](https://github.com/wtheisen/BashDynamicPaper) - Dynamic wallpaper setter.(shell)
