@@ -536,6 +536,7 @@
 - [geometry](https://github.com/geometry-zsh/geometry) - a minimal, fully customizable and composable zsh prompt theme
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [gruvbox](https://github.com/morhetz/gruvbox-contrib) - Retro groove color scheme.
+- [iglass](https://github.com/vukkt/iglass) - Liquid Glass–inspired translucent theme for Ghostty, kitty and iTerm2 on macOS and Linux.
 - [Nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [OneDark](https://github.com/nathanbuchar/atom-one-dark-terminal) - Atom One Dark theme for Terminal
 - [rainglow](https://github.com/rainglow) - A collection of over 320 different color themes for various terminals and editors.
