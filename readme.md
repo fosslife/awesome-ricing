@@ -295,6 +295,7 @@
 - [quobar](https://github.com/tv42/quobar) - X11 status bar. (go)
 - [rust-dwm-status](https://github.com/pierrechevalier83/rust-dwm-status) - A status bar for dwm .(rust)
 - [sketchybar](https://github.com/FelixKratz/SketchyBar) - A easily customizable MacOS statusbar. (C)
+- [StableBar](https://github.com/Seb-GRAF/StableBar) - Customizable macOS menu bar with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces. (swift)
 - [statbar](https://github.com/pzl/statbar) - A Linux status bar, supporting multiple lightweight clients (multi-head). (C)
 - [statusbar](https://github.com/l3pp4rd/statusbar) - Statusbar for linux window manager. (go)
 - [taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad. (Haskell)
