@@ -316,6 +316,7 @@
 
 ---
 
+- [TinyDock](https://github.com/Wian1977/TinyDock) - Lightweight elastic dock with hover-zoom for GTK3 Linux desktops. (Rust + GTK3)
 ### CLI Tools
 
 #### System Monitors
