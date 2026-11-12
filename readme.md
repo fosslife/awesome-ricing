@@ -642,6 +642,7 @@
 - [feh](https://github.com/derf/feh) - a fast and light image viewer / setter. (C)
 - [Nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows. (c++)
 - [Nathans-wallpaper](https://github.com/step-/nathans-wallpaper) - Desktop wallpaper setter. (shell)
+- [nowPlayingDesktops](https://github.com/hippi345/nowPlayingDesktops) - Glass-style album-art tile on your desktop wallpaper for Spotify. (python)
 - [quickwall](https://github.com/deepjyoti30/QuickWall) - Set latest wallpapers from Unsplash from the commandline. (python)
 - [setroot](https://github.com/ttzhou/setroot) - simple X background setter inspired by imlibsetroot and feh. (C)
 - [Unsplash-Random-Wallpaper-Setter](https://github.com/tymscar/Unsplash-Random-Wallpaper-Setter) - simple script that changes your wallpaper to a random image from unsplash.it (shell)
