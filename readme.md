@@ -506,6 +506,7 @@
 - [Eza](https://github.com/eza-community/eza) - A modern replacement for 'ls' with icons and colors. (Rust)
 - [fum](https://github.com/qxb3/fum) - A fully ricable tui-based mpris music client. (Rust)
 - [genact](https://github.com/svenstaro/genact) - A nonsense activity generator. (Rust)
+- [keybind-find](https://github.com/Benjmhart/keybind-find) - Search the keybindings for the focused window and run the one you pick. (Rust)
 - [Lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns. (ruby)
 - [mpv](https://github.com/mpv-player/mpv) - Command Line Media Player
 - [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player. (C++)
